@@ -1,0 +1,1608 @@
+[
+ {
+  "id": 1,
+  "phrase": "give up",
+  "translation": "abandonner",
+  "definition": "To stop trying to do something.",
+  "example": {
+   "en": "She gave up smoking last year.",
+   "fr": "Elle a arrêté de fumer l'année dernière."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 2,
+  "phrase": "look into",
+  "translation": "enquêter sur, examiner",
+  "definition": "To investigate or examine something.",
+  "example": {
+   "en": "The police are looking into the incident.",
+   "fr": "La police enquête sur l'incident."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 3,
+  "phrase": "carry on",
+  "translation": "continuer",
+  "definition": "To continue doing something.",
+  "example": {
+   "en": "Please carry on with your work.",
+   "fr": "Continuez votre travail, s'il vous plaît."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 4,
+  "phrase": "figure out",
+  "translation": "comprendre, trouver la solution",
+  "definition": "To understand or solve something after thinking about it.",
+  "example": {
+   "en": "I can't figure out how this works.",
+   "fr": "Je n'arrive pas à comprendre comment ça marche."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 5,
+  "phrase": "put up with",
+  "translation": "supporter",
+  "definition": "To tolerate something unpleasant.",
+  "example": {
+   "en": "I can't put up with this noise any longer.",
+   "fr": "Je ne peux plus supporter ce bruit."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 6,
+  "phrase": "come across",
+  "translation": "tomber sur, sembler",
+  "definition": "To find by chance, or to give an impression.",
+  "example": {
+   "en": "I came across an old photo yesterday.",
+   "fr": "Je suis tombé sur une vieille photo hier."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 7,
+  "phrase": "turn down",
+  "translation": "refuser, baisser",
+  "definition": "To reject an offer, or to lower volume.",
+  "example": {
+   "en": "He turned down the job offer.",
+   "fr": "Il a refusé l'offre d'emploi."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 8,
+  "phrase": "break down",
+  "translation": "tomber en panne, s'effondrer",
+  "definition": "To stop functioning, or to become very upset.",
+  "example": {
+   "en": "My car broke down on the motorway.",
+   "fr": "Ma voiture est tombée en panne sur l'autoroute."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 9,
+  "phrase": "take over",
+  "translation": "prendre le contrôle de",
+  "definition": "To assume control of something.",
+  "example": {
+   "en": "The new manager took over the department.",
+   "fr": "Le nouveau responsable a pris le contrôle du service."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 10,
+  "phrase": "bring up",
+  "translation": "élever, mentionner",
+  "definition": "To raise a child, or to mention a topic.",
+  "example": {
+   "en": "She brought up an interesting point.",
+   "fr": "Elle a soulevé un point intéressant."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 11,
+  "phrase": "run into",
+  "translation": "rencontrer par hasard, heurter",
+  "definition": "To meet by chance, or to hit something.",
+  "example": {
+   "en": "I ran into an old friend at the station.",
+   "fr": "Je suis tombé sur un vieil ami à la gare."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 12,
+  "phrase": "work out",
+  "translation": "résoudre, faire du sport, se passer bien",
+  "definition": "To solve a problem, exercise, or end up successfully.",
+  "example": {
+   "en": "Everything worked out in the end.",
+   "fr": "Tout s'est bien passé au final."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 13,
+  "phrase": "set up",
+  "translation": "mettre en place, organiser",
+  "definition": "To arrange or establish something.",
+  "example": {
+   "en": "They set up a new company last year.",
+   "fr": "Ils ont créé une nouvelle entreprise l'année dernière."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 14,
+  "phrase": "get away with",
+  "translation": "s'en tirer sans conséquence",
+  "definition": "To avoid punishment for something wrong.",
+  "example": {
+   "en": "He got away with cheating on the test.",
+   "fr": "Il s'en est tiré sans être puni pour avoir triché à l'examen."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 15,
+  "phrase": "go through",
+  "translation": "traverser, examiner en détail",
+  "definition": "To experience something difficult, or examine carefully.",
+  "example": {
+   "en": "She's going through a hard time right now.",
+   "fr": "Elle traverse une période difficile en ce moment."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 16,
+  "phrase": "hold on",
+  "translation": "attendre, tenir bon",
+  "definition": "To wait, or to grip something firmly.",
+  "example": {
+   "en": "Hold on a second, I'll be right there.",
+   "fr": "Attends une seconde, j'arrive."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 17,
+  "phrase": "point out",
+  "translation": "signaler, faire remarquer",
+  "definition": "To draw attention to something.",
+  "example": {
+   "en": "She pointed out a mistake in the report.",
+   "fr": "Elle a signalé une erreur dans le rapport."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 18,
+  "phrase": "come up with",
+  "translation": "proposer, trouver (une idée)",
+  "definition": "To think of an idea or plan.",
+  "example": {
+   "en": "He came up with a brilliant solution.",
+   "fr": "Il a trouvé une solution géniale."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 19,
+  "phrase": "end up",
+  "translation": "finir par",
+  "definition": "To reach a final state or place eventually.",
+  "example": {
+   "en": "We ended up staying home all night.",
+   "fr": "On a fini par rester à la maison toute la soirée."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 20,
+  "phrase": "look forward to",
+  "translation": "attendre avec impatience",
+  "definition": "To feel excited about something in the future.",
+  "example": {
+   "en": "I'm looking forward to the holidays.",
+   "fr": "J'ai hâte que les vacances arrivent."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 21,
+  "phrase": "deal with",
+  "translation": "gérer, s'occuper de",
+  "definition": "To handle a problem or situation.",
+  "example": {
+   "en": "I'll deal with it tomorrow.",
+   "fr": "Je m'en occuperai demain."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 22,
+  "phrase": "check in",
+  "translation": "enregistrer, se présenter",
+  "definition": "To register at a hotel or airport.",
+  "example": {
+   "en": "We checked in at the hotel around noon.",
+   "fr": "Nous avons fait le check-in à l'hôtel vers midi."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 23,
+  "phrase": "check out",
+  "translation": "régler la note, vérifier",
+  "definition": "To leave a hotel, or to examine something.",
+  "example": {
+   "en": "You need to check out before 11am.",
+   "fr": "Il faut régler la note avant 11h."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 24,
+  "phrase": "find out",
+  "translation": "découvrir",
+  "definition": "To discover information.",
+  "example": {
+   "en": "I just found out the truth.",
+   "fr": "Je viens de découvrir la vérité."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 25,
+  "phrase": "get along with",
+  "translation": "bien s'entendre avec",
+  "definition": "To have a good relationship with someone.",
+  "example": {
+   "en": "I get along with my colleagues well.",
+   "fr": "Je m'entends bien avec mes collègues."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 26,
+  "phrase": "get over",
+  "translation": "surmonter, se remettre de",
+  "definition": "To recover from something difficult.",
+  "example": {
+   "en": "It took her months to get over the breakup.",
+   "fr": "Il lui a fallu des mois pour se remettre de la rupture."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 27,
+  "phrase": "give in",
+  "translation": "céder",
+  "definition": "To finally agree after resisting.",
+  "example": {
+   "en": "He finally gave in to their demands.",
+   "fr": "Il a finalement cédé à leurs demandes."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 28,
+  "phrase": "go on",
+  "translation": "continuer, se passer",
+  "definition": "To continue, or to happen.",
+  "example": {
+   "en": "What's going on here?",
+   "fr": "Qu'est-ce qui se passe ici ?"
+  },
+  "level": "A2"
+ },
+ {
+  "id": 29,
+  "phrase": "hang out",
+  "translation": "traîner, passer du temps",
+  "definition": "To spend time relaxing socially.",
+  "example": {
+   "en": "We usually hang out at the café.",
+   "fr": "On traîne d'habitude au café."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 30,
+  "phrase": "hold up",
+  "translation": "retarder, tenir",
+  "definition": "To delay, or to remain strong.",
+  "example": {
+   "en": "Sorry I'm late, traffic held me up.",
+   "fr": "Désolé du retard, la circulation m'a retardé."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 31,
+  "phrase": "keep up with",
+  "translation": "suivre le rythme de",
+  "definition": "To stay at the same pace or level.",
+  "example": {
+   "en": "It's hard to keep up with the news.",
+   "fr": "C'est difficile de suivre l'actualité."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 32,
+  "phrase": "let down",
+  "translation": "décevoir",
+  "definition": "To disappoint someone.",
+  "example": {
+   "en": "I don't want to let my team down.",
+   "fr": "Je ne veux pas décevoir mon équipe."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 33,
+  "phrase": "make up",
+  "translation": "se réconcilier, inventer",
+  "definition": "To resolve an argument, or to invent a story.",
+  "example": {
+   "en": "They made up after the fight.",
+   "fr": "Ils se sont réconciliés après la dispute."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 34,
+  "phrase": "pass away",
+  "translation": "décéder",
+  "definition": "A polite way to say someone died.",
+  "example": {
+   "en": "Her grandfather passed away last month.",
+   "fr": "Son grand-père est décédé le mois dernier."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 35,
+  "phrase": "pick up",
+  "translation": "ramasser, apprendre, récupérer",
+  "definition": "To lift something, learn a skill, or collect someone.",
+  "example": {
+   "en": "I'll pick you up at 8.",
+   "fr": "Je viendrai te chercher à 8h."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 36,
+  "phrase": "put off",
+  "translation": "reporter",
+  "definition": "To postpone something.",
+  "example": {
+   "en": "We had to put off the meeting.",
+   "fr": "Nous avons dû reporter la réunion."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 37,
+  "phrase": "run out of",
+  "translation": "manquer de, être à court de",
+  "definition": "To have no more of something.",
+  "example": {
+   "en": "We ran out of milk this morning.",
+   "fr": "On n'a plus de lait ce matin."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 38,
+  "phrase": "show up",
+  "translation": "se présenter, arriver",
+  "definition": "To arrive somewhere, often unexpectedly.",
+  "example": {
+   "en": "He showed up an hour late.",
+   "fr": "Il est arrivé une heure en retard."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 39,
+  "phrase": "stand out",
+  "translation": "se démarquer",
+  "definition": "To be noticeably different or better.",
+  "example": {
+   "en": "Her work really stands out.",
+   "fr": "Son travail se démarque vraiment."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 40,
+  "phrase": "take off",
+  "translation": "décoller, retirer, connaître le succès",
+  "definition": "For a plane to leave the ground, or to remove clothing, or become successful.",
+  "example": {
+   "en": "The plane took off on time.",
+   "fr": "L'avion a décollé à l'heure."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 41,
+  "phrase": "turn out",
+  "translation": "s'avérer",
+  "definition": "To have a particular result in the end.",
+  "example": {
+   "en": "It turned out to be a great idea.",
+   "fr": "Ça s'est avéré être une excellente idée."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 42,
+  "phrase": "wear out",
+  "translation": "user, épuiser",
+  "definition": "To make something worn out, or exhaust someone.",
+  "example": {
+   "en": "These shoes have really worn out.",
+   "fr": "Ces chaussures sont vraiment usées."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 43,
+  "phrase": "bring about",
+  "translation": "provoquer, entraîner",
+  "definition": "To cause something to happen.",
+  "example": {
+   "en": "The reforms brought about major change.",
+   "fr": "Les réformes ont provoqué un changement majeur."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 44,
+  "phrase": "call off",
+  "translation": "annuler",
+  "definition": "To cancel something.",
+  "example": {
+   "en": "They called off the wedding.",
+   "fr": "Ils ont annulé le mariage."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 45,
+  "phrase": "carry out",
+  "translation": "réaliser, effectuer",
+  "definition": "To perform or complete a task.",
+  "example": {
+   "en": "The team carried out extensive research.",
+   "fr": "L'équipe a mené des recherches approfondies."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 46,
+  "phrase": "cut down on",
+  "translation": "réduire",
+  "definition": "To reduce the amount of something.",
+  "example": {
+   "en": "I'm trying to cut down on sugar.",
+   "fr": "J'essaie de réduire le sucre."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 47,
+  "phrase": "draw up",
+  "translation": "rédiger, élaborer",
+  "definition": "To prepare a document or plan.",
+  "example": {
+   "en": "The lawyer drew up the contract.",
+   "fr": "L'avocat a rédigé le contrat."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 48,
+  "phrase": "fall through",
+  "translation": "échouer, tomber à l'eau",
+  "definition": "For a plan to fail to happen.",
+  "example": {
+   "en": "Our holiday plans fell through.",
+   "fr": "Nos projets de vacances sont tombés à l'eau."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 49,
+  "phrase": "hold back",
+  "translation": "retenir, hésiter",
+  "definition": "To restrain something, or to hesitate.",
+  "example": {
+   "en": "She held back her tears.",
+   "fr": "Elle a retenu ses larmes."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 50,
+  "phrase": "lay off",
+  "translation": "licencier",
+  "definition": "To dismiss employees from work.",
+  "example": {
+   "en": "The company laid off 200 workers.",
+   "fr": "L'entreprise a licencié 200 employés."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 51,
+  "phrase": "live up to",
+  "translation": "être à la hauteur de",
+  "definition": "To meet expectations.",
+  "example": {
+   "en": "The film didn't live up to the hype.",
+   "fr": "Le film n'était pas à la hauteur du battage médiatique."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 52,
+  "phrase": "look down on",
+  "translation": "mépriser",
+  "definition": "To consider someone inferior.",
+  "example": {
+   "en": "He looks down on people who disagree with him.",
+   "fr": "Il méprise les gens qui ne sont pas d'accord avec lui."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 53,
+  "phrase": "make up for",
+  "translation": "compenser",
+  "definition": "To compensate for something lacking.",
+  "example": {
+   "en": "Nothing can make up for lost time.",
+   "fr": "Rien ne peut compenser le temps perdu."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 54,
+  "phrase": "pull off",
+  "translation": "réussir (quelque chose de difficile)",
+  "definition": "To succeed in doing something difficult.",
+  "example": {
+   "en": "They pulled off an amazing win.",
+   "fr": "Ils ont réussi une victoire incroyable."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 55,
+  "phrase": "put across",
+  "translation": "faire comprendre, faire passer",
+  "definition": "To communicate an idea effectively.",
+  "example": {
+   "en": "She put her point across clearly.",
+   "fr": "Elle a fait passer son point de vue clairement."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 56,
+  "phrase": "rule out",
+  "translation": "exclure",
+  "definition": "To eliminate a possibility.",
+  "example": {
+   "en": "Doctors ruled out any serious illness.",
+   "fr": "Les médecins ont exclu toute maladie grave."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 57,
+  "phrase": "settle down",
+  "translation": "se ranger, s'installer",
+  "definition": "To start living a stable, calm life.",
+  "example": {
+   "en": "He wants to settle down and start a family.",
+   "fr": "Il veut se ranger et fonder une famille."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 58,
+  "phrase": "sort out",
+  "translation": "régler, trier",
+  "definition": "To resolve a problem or organise something.",
+  "example": {
+   "en": "We need to sort out this misunderstanding.",
+   "fr": "Il faut régler ce malentendu."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 59,
+  "phrase": "stand up for",
+  "translation": "défendre",
+  "definition": "To support or defend someone/something.",
+  "example": {
+   "en": "She always stands up for her friends.",
+   "fr": "Elle défend toujours ses amis."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 60,
+  "phrase": "stick to",
+  "translation": "s'en tenir à",
+  "definition": "To continue doing or using something without changing.",
+  "example": {
+   "en": "Let's stick to the original plan.",
+   "fr": "Restons-en au plan initial."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 61,
+  "phrase": "take after",
+  "translation": "tenir de (ressembler à)",
+  "definition": "To resemble a parent or relative.",
+  "example": {
+   "en": "She takes after her mother.",
+   "fr": "Elle tient de sa mère."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 62,
+  "phrase": "talk into",
+  "translation": "persuader de faire",
+  "definition": "To persuade someone to do something.",
+  "example": {
+   "en": "He talked me into buying the car.",
+   "fr": "Il m'a persuadé d'acheter la voiture."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 63,
+  "phrase": "throw away",
+  "translation": "jeter",
+  "definition": "To discard something.",
+  "example": {
+   "en": "Don't throw away that receipt.",
+   "fr": "Ne jette pas ce reçu."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 64,
+  "phrase": "account for",
+  "translation": "expliquer, représenter (une part)",
+  "definition": "To explain, or to constitute a proportion.",
+  "example": {
+   "en": "This accounts for the rise in prices.",
+   "fr": "Cela explique la hausse des prix."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 65,
+  "phrase": "bring back",
+  "translation": "ramener, faire revenir (des souvenirs)",
+  "definition": "To return something, or to remind of the past.",
+  "example": {
+   "en": "This song brings back memories.",
+   "fr": "Cette chanson me rappelle des souvenirs."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 66,
+  "phrase": "catch up on",
+  "translation": "rattraper (son retard)",
+  "definition": "To do something that you did not have time to do earlier.",
+  "example": {
+   "en": "I need to catch up on some sleep.",
+   "fr": "J'ai besoin de rattraper mon retard de sommeil."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 67,
+  "phrase": "come along",
+  "translation": "venir avec, progresser",
+  "definition": "To accompany, or to make progress.",
+  "example": {
+   "en": "The project is coming along nicely.",
+   "fr": "Le projet avance bien."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 68,
+  "phrase": "cut off",
+  "translation": "couper, isoler",
+  "definition": "To interrupt or disconnect something.",
+  "example": {
+   "en": "The line was cut off during the call.",
+   "fr": "La ligne a été coupée pendant l'appel."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 69,
+  "phrase": "do without",
+  "translation": "se passer de",
+  "definition": "To manage without having something.",
+  "example": {
+   "en": "We'll have to do without a car this week.",
+   "fr": "On devra se passer de voiture cette semaine."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 70,
+  "phrase": "drop out",
+  "translation": "abandonner (des études)",
+  "definition": "To stop attending school or a course.",
+  "example": {
+   "en": "He dropped out of university.",
+   "fr": "Il a abandonné ses études universitaires."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 71,
+  "phrase": "fall behind",
+  "translation": "prendre du retard",
+  "definition": "To fail to keep up with a pace or schedule.",
+  "example": {
+   "en": "She's falling behind on her assignments.",
+   "fr": "Elle prend du retard sur ses devoirs."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 72,
+  "phrase": "get by",
+  "translation": "se débrouiller, s'en sortir",
+  "definition": "To manage to survive with limited resources.",
+  "example": {
+   "en": "We manage to get by on a small salary.",
+   "fr": "On arrive à s'en sortir avec un petit salaire."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 73,
+  "phrase": "get through",
+  "translation": "survivre à, réussir à joindre",
+  "definition": "To endure a difficult period, or to reach someone by phone.",
+  "example": {
+   "en": "I don't know how we got through that year.",
+   "fr": "Je ne sais pas comment on a survécu à cette année-là."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 74,
+  "phrase": "go over",
+  "translation": "revoir, examiner",
+  "definition": "To review or examine something carefully.",
+  "example": {
+   "en": "Let's go over the plan one more time.",
+   "fr": "Revoyons le plan une dernière fois."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 75,
+  "phrase": "hand in",
+  "translation": "rendre, remettre",
+  "definition": "To submit something, e.g. homework.",
+  "example": {
+   "en": "Please hand in your essays by Friday.",
+   "fr": "Merci de rendre vos dissertations avant vendredi."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 76,
+  "phrase": "keep on",
+  "translation": "continuer à",
+  "definition": "To continue doing something.",
+  "example": {
+   "en": "He kept on talking despite the interruptions.",
+   "fr": "Il a continué à parler malgré les interruptions."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 77,
+  "phrase": "leave out",
+  "translation": "omettre, exclure",
+  "definition": "To not include something or someone.",
+  "example": {
+   "en": "You left out an important detail.",
+   "fr": "Tu as omis un détail important."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 78,
+  "phrase": "look up to",
+  "translation": "admirer, respecter",
+  "definition": "To admire and respect someone.",
+  "example": {
+   "en": "She has always looked up to her older sister.",
+   "fr": "Elle a toujours admiré sa grande sœur."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 79,
+  "phrase": "make out",
+  "translation": "distinguer, comprendre",
+  "definition": "To manage to see or understand something with difficulty.",
+  "example": {
+   "en": "I could barely make out his handwriting.",
+   "fr": "J'arrivais à peine à déchiffrer son écriture."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 80,
+  "phrase": "pass out",
+  "translation": "s'évanouir",
+  "definition": "To faint.",
+  "example": {
+   "en": "She passed out from the heat.",
+   "fr": "Elle s'est évanouie à cause de la chaleur."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 81,
+  "phrase": "put down",
+  "translation": "poser, réprimer, humilier",
+  "definition": "To place something down, suppress, or belittle someone.",
+  "example": {
+   "en": "Stop putting yourself down all the time.",
+   "fr": "Arrête de te dévaloriser tout le temps."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 82,
+  "phrase": "run away",
+  "translation": "s'enfuir",
+  "definition": "To escape from a place or situation.",
+  "example": {
+   "en": "The dog ran away from home.",
+   "fr": "Le chien s'est enfui de la maison."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 83,
+  "phrase": "see through",
+  "translation": "percer à jour, mener à bien",
+  "definition": "To detect someone's deception, or complete a task fully.",
+  "example": {
+   "en": "I could see through his excuses.",
+   "fr": "J'ai bien vu à travers ses excuses."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 84,
+  "phrase": "shut down",
+  "translation": "fermer, éteindre",
+  "definition": "To close a business, or turn off a machine.",
+  "example": {
+   "en": "The factory shut down last year.",
+   "fr": "L'usine a fermé l'année dernière."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 85,
+  "phrase": "speak up",
+  "translation": "parler plus fort, s'exprimer",
+  "definition": "To talk louder, or to express an opinion.",
+  "example": {
+   "en": "Please speak up, I can't hear you.",
+   "fr": "Parle plus fort, je ne t'entends pas."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 86,
+  "phrase": "stick out",
+  "translation": "dépasser, ressortir",
+  "definition": "To protrude, or to be very noticeable.",
+  "example": {
+   "en": "His ideas really stick out from the rest.",
+   "fr": "Ses idées se démarquent vraiment des autres."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 87,
+  "phrase": "take on",
+  "translation": "prendre en charge, engager",
+  "definition": "To accept a responsibility, or to hire someone.",
+  "example": {
+   "en": "She took on extra responsibilities.",
+   "fr": "Elle a pris en charge des responsabilités supplémentaires."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 88,
+  "phrase": "tear down",
+  "translation": "démolir",
+  "definition": "To destroy a building.",
+  "example": {
+   "en": "They tore down the old cinema.",
+   "fr": "Ils ont démoli le vieux cinéma."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 89,
+  "phrase": "wear off",
+  "translation": "s'estomper, disparaître progressivement",
+  "definition": "For an effect or feeling to gradually disappear.",
+  "example": {
+   "en": "The pain will wear off in a few hours.",
+   "fr": "La douleur disparaîtra dans quelques heures."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 90,
+  "phrase": "weigh up",
+  "translation": "peser (le pour et le contre)",
+  "definition": "To consider carefully before deciding.",
+  "example": {
+   "en": "We need to weigh up the options.",
+   "fr": "Il faut peser les options."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 91,
+  "phrase": "write off",
+  "translation": "radier, considérer comme perdu",
+  "definition": "To dismiss something as a failure or cancel a debt.",
+  "example": {
+   "en": "They wrote off the loss.",
+   "fr": "Ils ont enregistré la perte comme irrécouvrable."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 92,
+  "phrase": "act up",
+  "translation": "mal se comporter, faire des siennes",
+  "definition": "To behave badly or malfunction.",
+  "example": {
+   "en": "My laptop has been acting up all week.",
+   "fr": "Mon ordinateur portable fait des siennes toute la semaine."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 93,
+  "phrase": "add up",
+  "translation": "être cohérent, avoir du sens",
+  "definition": "For facts to make sense together.",
+  "example": {
+   "en": "His story just doesn't add up.",
+   "fr": "Son histoire n'est tout simplement pas cohérente."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 94,
+  "phrase": "back down",
+  "translation": "céder, reculer",
+  "definition": "To withdraw from a position or argument.",
+  "example": {
+   "en": "He refused to back down during the negotiation.",
+   "fr": "Il a refusé de céder pendant la négociation."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 95,
+  "phrase": "back up",
+  "translation": "soutenir, sauvegarder",
+  "definition": "To support someone, or to make a copy of data.",
+  "example": {
+   "en": "Always back up your files.",
+   "fr": "Sauvegarde toujours tes fichiers."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 96,
+  "phrase": "bail out",
+  "translation": "renflouer, tirer d'affaire",
+  "definition": "To rescue from a difficult situation, often financially.",
+  "example": {
+   "en": "The government bailed out the bank.",
+   "fr": "Le gouvernement a renfloué la banque."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 97,
+  "phrase": "block off",
+  "translation": "bloquer, condamner (un accès)",
+  "definition": "To close off an area.",
+  "example": {
+   "en": "The police blocked off the street.",
+   "fr": "La police a bloqué la rue."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 98,
+  "phrase": "boil down to",
+  "translation": "se résumer à",
+  "definition": "To be the essential point of a situation.",
+  "example": {
+   "en": "It all boils down to trust.",
+   "fr": "Tout se résume à la confiance."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 99,
+  "phrase": "branch out",
+  "translation": "se diversifier",
+  "definition": "To expand into new areas of activity.",
+  "example": {
+   "en": "The company is branching out into new markets.",
+   "fr": "L'entreprise se diversifie vers de nouveaux marchés."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 100,
+  "phrase": "brush up on",
+  "translation": "rafraîchir (ses connaissances)",
+  "definition": "To improve a skill you haven't used recently.",
+  "example": {
+   "en": "I need to brush up on my Spanish before the trip.",
+   "fr": "Je dois rafraîchir mon espagnol avant le voyage."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 101,
+  "phrase": "chip in",
+  "translation": "participer financièrement, contribuer",
+  "definition": "To contribute money or help.",
+  "example": {
+   "en": "Everyone chipped in for the gift.",
+   "fr": "Tout le monde a participé pour le cadeau."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 102,
+  "phrase": "close down",
+  "translation": "fermer définitivement",
+  "definition": "For a business to shut permanently.",
+  "example": {
+   "en": "The factory closed down last year.",
+   "fr": "L'usine a fermé définitivement l'année dernière."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 103,
+  "phrase": "come off",
+  "translation": "réussir, se détacher",
+  "definition": "To happen successfully, or to become detached.",
+  "example": {
+   "en": "The plan didn't come off as expected.",
+   "fr": "Le plan ne s'est pas déroulé comme prévu."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 104,
+  "phrase": "count on",
+  "translation": "compter sur",
+  "definition": "To rely on someone or something.",
+  "example": {
+   "en": "You can always count on her.",
+   "fr": "Tu peux toujours compter sur elle."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 105,
+  "phrase": "crack down on",
+  "translation": "sévir contre, réprimer",
+  "definition": "To take strict action against something.",
+  "example": {
+   "en": "The city is cracking down on illegal parking.",
+   "fr": "La ville sévit contre le stationnement illégal."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 106,
+  "phrase": "cross out",
+  "translation": "barrer, rayer",
+  "definition": "To draw a line through something written.",
+  "example": {
+   "en": "Cross out any mistakes.",
+   "fr": "Barre les éventuelles erreurs."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 107,
+  "phrase": "delve into",
+  "translation": "approfondir, se plonger dans",
+  "definition": "To research or study something thoroughly.",
+  "example": {
+   "en": "The book delves into the history of the region.",
+   "fr": "Le livre approfondit l'histoire de la région."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 108,
+  "phrase": "dive into",
+  "translation": "se plonger dans, s'attaquer à",
+  "definition": "To start doing something enthusiastically.",
+  "example": {
+   "en": "Let's dive into the details.",
+   "fr": "Plongeons-nous dans les détails."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 109,
+  "phrase": "dress up",
+  "translation": "se déguiser, s'habiller élégamment",
+  "definition": "To wear formal or special clothes.",
+  "example": {
+   "en": "The kids dressed up for Halloween.",
+   "fr": "Les enfants se sont déguisés pour Halloween."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 110,
+  "phrase": "ease off",
+  "translation": "diminuer, se calmer",
+  "definition": "For something to become less intense.",
+  "example": {
+   "en": "The rain finally eased off.",
+   "fr": "La pluie a enfin diminué."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 111,
+  "phrase": "even out",
+  "translation": "s'égaliser, se stabiliser",
+  "definition": "To become more balanced over time.",
+  "example": {
+   "en": "Prices should even out by next year.",
+   "fr": "Les prix devraient se stabiliser d'ici l'année prochaine."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 112,
+  "phrase": "face up to",
+  "translation": "affronter, faire face à",
+  "definition": "To accept and deal with a difficult truth.",
+  "example": {
+   "en": "He had to face up to his mistakes.",
+   "fr": "Il a dû affronter ses erreurs."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 113,
+  "phrase": "fall for",
+  "translation": "tomber amoureux de, se faire avoir par",
+  "definition": "To fall in love with someone, or be deceived by a trick.",
+  "example": {
+   "en": "She fell for him instantly.",
+   "fr": "Elle est tombée amoureuse de lui instantanément."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 114,
+  "phrase": "fill in for",
+  "translation": "remplacer (temporairement)",
+  "definition": "To temporarily do someone else's job.",
+  "example": {
+   "en": "I'm filling in for my colleague this week.",
+   "fr": "Je remplace mon collègue cette semaine."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 115,
+  "phrase": "get across",
+  "translation": "faire comprendre, faire passer (un message)",
+  "definition": "To successfully communicate an idea.",
+  "example": {
+   "en": "It's hard to get my point across sometimes.",
+   "fr": "C'est difficile de faire passer mon message parfois."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 116,
+  "phrase": "get down to",
+  "translation": "se mettre sérieusement à",
+  "definition": "To start doing something seriously.",
+  "example": {
+   "en": "Let's get down to business.",
+   "fr": "Passons aux choses sérieuses."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 117,
+  "phrase": "get out of",
+  "translation": "échapper à, éviter (une obligation)",
+  "definition": "To avoid doing something.",
+  "example": {
+   "en": "He always tries to get out of doing chores.",
+   "fr": "Il essaie toujours d'éviter de faire les corvées."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 118,
+  "phrase": "give away",
+  "translation": "révéler, donner gratuitement",
+  "definition": "To reveal a secret, or to give something for free.",
+  "example": {
+   "en": "Don't give away the ending!",
+   "fr": "Ne révèle pas la fin !"
+  },
+  "level": "B1"
+ },
+ {
+  "id": 119,
+  "phrase": "hold off",
+  "translation": "attendre, retarder",
+  "definition": "To delay doing something.",
+  "example": {
+   "en": "Let's hold off on the decision until Monday.",
+   "fr": "Attendons lundi pour la décision."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 120,
+  "phrase": "iron out",
+  "translation": "résoudre (des détails/problèmes)",
+  "definition": "To resolve difficulties through discussion.",
+  "example": {
+   "en": "We still need to iron out a few details.",
+   "fr": "Il faut encore régler quelques détails."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 121,
+  "phrase": "kick off",
+  "translation": "démarrer, débuter",
+  "definition": "To start an event.",
+  "example": {
+   "en": "The conference kicks off at 9am.",
+   "fr": "La conférence débute à 9h."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 122,
+  "phrase": "knock out",
+  "translation": "éliminer, mettre KO",
+  "definition": "To eliminate from a competition, or render unconscious.",
+  "example": {
+   "en": "They were knocked out in the semi-final.",
+   "fr": "Ils ont été éliminés en demi-finale."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 123,
+  "phrase": "level off",
+  "translation": "se stabiliser",
+  "definition": "To stop increasing or decreasing.",
+  "example": {
+   "en": "Sales have levelled off this quarter.",
+   "fr": "Les ventes se sont stabilisées ce trimestre."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 124,
+  "phrase": "look out for",
+  "translation": "faire attention à, guetter",
+  "definition": "To watch carefully for something.",
+  "example": {
+   "en": "Look out for pickpockets in crowded areas.",
+   "fr": "Fais attention aux pickpockets dans les zones bondées."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 125,
+  "phrase": "make out",
+  "translation": "distinguer",
+  "definition": "See also: understand with difficulty (already listed) — also used for kissing informally.",
+  "example": {
+   "en": "I can just make out the coastline.",
+   "fr": "J'arrive tout juste à distinguer la côte."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 126,
+  "phrase": "map out",
+  "translation": "planifier en détail",
+  "definition": "To plan something carefully.",
+  "example": {
+   "en": "She mapped out her whole career path.",
+   "fr": "Elle a planifié tout son parcours professionnel."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 127,
+  "phrase": "miss out on",
+  "translation": "rater, passer à côté de",
+  "definition": "To fail to benefit from an opportunity.",
+  "example": {
+   "en": "Don't miss out on this offer.",
+   "fr": "Ne rate pas cette offre."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 128,
+  "phrase": "opt out of",
+  "translation": "se retirer de, choisir de ne pas participer",
+  "definition": "To choose not to take part.",
+  "example": {
+   "en": "You can opt out of the newsletter anytime.",
+   "fr": "Tu peux te désabonner de la newsletter à tout moment."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 129,
+  "phrase": "phase out",
+  "translation": "supprimer progressivement",
+  "definition": "To gradually stop using something.",
+  "example": {
+   "en": "The company is phasing out plastic packaging.",
+   "fr": "L'entreprise supprime progressivement les emballages plastiques."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 130,
+  "phrase": "pin down",
+  "translation": "cerner, définir précisément",
+  "definition": "To identify something exactly.",
+  "example": {
+   "en": "It's hard to pin down what makes the film so good.",
+   "fr": "C'est difficile de cerner ce qui rend le film si bon."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 131,
+  "phrase": "play down",
+  "translation": "minimiser",
+  "definition": "To make something seem less important.",
+  "example": {
+   "en": "The minister played down the crisis.",
+   "fr": "Le ministre a minimisé la crise."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 132,
+  "phrase": "pull through",
+  "translation": "s'en sortir, survivre",
+  "definition": "To survive a difficult situation or illness.",
+  "example": {
+   "en": "Doctors say she'll pull through.",
+   "fr": "Les médecins disent qu'elle va s'en sortir."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 133,
+  "phrase": "push through",
+  "translation": "faire adopter (une loi/mesure)",
+  "definition": "To force a plan or law to be approved.",
+  "example": {
+   "en": "They pushed the bill through parliament.",
+   "fr": "Ils ont fait adopter le projet de loi au parlement."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 134,
+  "phrase": "round up",
+  "translation": "rassembler, arrondir",
+  "definition": "To gather people/things together, or round a number.",
+  "example": {
+   "en": "Round up the volunteers for the meeting.",
+   "fr": "Rassemble les bénévoles pour la réunion."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 135,
+  "phrase": "scale back",
+  "translation": "réduire (l'ampleur de)",
+  "definition": "To reduce the size or extent of something.",
+  "example": {
+   "en": "They scaled back the project due to budget cuts.",
+   "fr": "Ils ont réduit l'ampleur du projet à cause de coupes budgétaires."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 136,
+  "phrase": "shrug off",
+  "translation": "ignorer, ne pas se laisser affecter par",
+  "definition": "To treat something as unimportant.",
+  "example": {
+   "en": "She shrugged off the criticism.",
+   "fr": "Elle a ignoré les critiques."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 137,
+  "phrase": "size up",
+  "translation": "évaluer, jauger",
+  "definition": "To assess a situation or person quickly.",
+  "example": {
+   "en": "He sized up the competition before bidding.",
+   "fr": "Il a évalué la concurrence avant de faire une offre."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 138,
+  "phrase": "spell out",
+  "translation": "expliciter, expliquer en détail",
+  "definition": "To explain something very clearly.",
+  "example": {
+   "en": "Let me spell it out for you.",
+   "fr": "Laisse-moi t'expliquer ça en détail."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 139,
+  "phrase": "step down",
+  "translation": "démissionner, se retirer",
+  "definition": "To resign from a position.",
+  "example": {
+   "en": "The CEO stepped down after the scandal.",
+   "fr": "Le PDG a démissionné après le scandale."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 140,
+  "phrase": "step up",
+  "translation": "intensifier, prendre les choses en main",
+  "definition": "To increase efforts, or take responsibility.",
+  "example": {
+   "en": "It's time to step up our efforts.",
+   "fr": "Il est temps d'intensifier nos efforts."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 141,
+  "phrase": "stem from",
+  "translation": "découler de, provenir de",
+  "definition": "To originate from something.",
+  "example": {
+   "en": "The problem stems from a lack of communication.",
+   "fr": "Le problème découle d'un manque de communication."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 142,
+  "phrase": "swear by",
+  "translation": "jurer par, faire une confiance absolue à",
+  "definition": "To have complete confidence in something.",
+  "example": {
+   "en": "She swears by this skincare routine.",
+   "fr": "Elle jure par cette routine de soin."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 143,
+  "phrase": "tone down",
+  "translation": "atténuer, adoucir",
+  "definition": "To make something less extreme.",
+  "example": {
+   "en": "You should tone down your language in the report.",
+   "fr": "Tu devrais adoucir ton langage dans le rapport."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 144,
+  "phrase": "trade off",
+  "translation": "faire un compromis entre",
+  "definition": "To balance two competing things.",
+  "example": {
+   "en": "We had to trade off speed for accuracy.",
+   "fr": "On a dû faire un compromis entre vitesse et précision."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 145,
+  "phrase": "wind down",
+  "translation": "se détendre, ralentir",
+  "definition": "To relax after a busy period, or gradually reduce.",
+  "example": {
+   "en": "I like to wind down with a book before bed.",
+   "fr": "J'aime me détendre avec un livre avant de dormir."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 146,
+  "phrase": "zero in on",
+  "translation": "se concentrer précisément sur",
+  "definition": "To focus attention on a specific thing.",
+  "example": {
+   "en": "The investigation zeroed in on one suspect.",
+   "fr": "L'enquête s'est concentrée sur un suspect."
+  },
+  "level": "C1"
+ }
+]
