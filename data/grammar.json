@@ -1,0 +1,1486 @@
+[
+ {
+  "id": 1,
+  "title": "Present Simple vs Present Continuous",
+  "level": "A2/B1",
+  "explanation": "Present Simple : habitudes, vérités générales, faits permanents. Present Continuous : action en cours au moment où l'on parle, ou changement temporaire/en développement.",
+  "examples": [
+   {
+    "en": "I work in London.",
+    "fr": "Je travaille à Londres. (fait habituel)"
+   },
+   {
+    "en": "I'm working from home this week.",
+    "fr": "Je travaille de chez moi cette semaine. (temporaire)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "She usually ___ (walk) to work, but today she ___ (drive) because it's raining.",
+    "answer": "walks / is driving",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Water ___ (boil) at 100°C.",
+    "answer": "boils",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "Look! It ___ (rain) again.",
+    "answer": "is raining;'s raining",
+    "id": 3
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the correct form: He ___ French fluently.",
+    "options": [
+     "speak",
+     "speaks",
+     "is speaking",
+     "speaking"
+    ],
+    "answer": "speaks",
+    "id": 4
+   },
+   {
+    "type": "gap",
+    "prompt": "I ___ (not/understand) this exercise.",
+    "answer": "don't understand",
+    "id": 5
+   },
+   {
+    "type": "gap",
+    "prompt": "They ___ (currently/build) a new bridge downtown.",
+    "answer": "are currently building",
+    "id": 6
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Present Perfect vs Past Simple",
+  "level": "B1/B2",
+  "explanation": "Present Perfect : lien avec le présent, moment non précisé, expérience de vie. Past Simple : action terminée à un moment précis et révolu du passé.",
+  "examples": [
+   {
+    "en": "I have visited Japan twice.",
+    "fr": "Je suis allé au Japon deux fois. (expérience, moment non précisé)"
+   },
+   {
+    "en": "I visited Japan in 2019.",
+    "fr": "Je suis allé au Japon en 2019. (moment précis)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "She ___ (already/finish) her homework.",
+    "answer": "has already finished",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "He ___ (leave) the company last year.",
+    "answer": "left",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: ___ you ever been to Canada?",
+    "options": [
+     "Did",
+     "Have",
+     "Do",
+     "Were"
+    ],
+    "answer": "Have",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "We ___ (not/see) each other since 2020.",
+    "answer": "haven't seen",
+    "id": 4
+   },
+   {
+    "type": "gap",
+    "prompt": "Yesterday, I ___ (meet) an old friend.",
+    "answer": "met",
+    "id": 5
+   },
+   {
+    "type": "gap",
+    "prompt": "I ___ (just/finish) this report — it's ready.",
+    "answer": "have just finished",
+    "id": 6
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Present Perfect Continuous",
+  "level": "B2",
+  "explanation": "Insiste sur la durée d'une action commencée dans le passé et qui continue (ou vient de s'arrêter), avec des effets visibles au présent.",
+  "examples": [
+   {
+    "en": "I've been studying English for six years.",
+    "fr": "J'étudie l'anglais depuis six ans."
+   },
+   {
+    "en": "She's tired because she's been working all day.",
+    "fr": "Elle est fatiguée car elle travaille depuis toute la journée."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "How long ___ you ___ (learn) the piano?",
+    "answer": "have / been learning",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "It ___ (rain) for three hours now.",
+    "answer": "has been raining",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: My hands are dirty, I ___ in the garden.",
+    "options": [
+     "worked",
+     "have been working",
+     "work",
+     "was working"
+    ],
+    "answer": "have been working",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "They ___ (wait) for the bus since 8am.",
+    "answer": "have been waiting",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Past Perfect (simple et continu)",
+  "level": "B2",
+  "explanation": "Décrit une action antérieure à un autre moment du passé — l'action la plus ancienne des deux.",
+  "examples": [
+   {
+    "en": "When I arrived, she had already left.",
+    "fr": "Quand je suis arrivé, elle était déjà partie."
+   },
+   {
+    "en": "He was tired because he had been running.",
+    "fr": "Il était fatigué parce qu'il avait couru."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "By the time we got there, the film ___ (start).",
+    "answer": "had started",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "She was upset because she ___ (lose) her keys.",
+    "answer": "had lost",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: I ___ never ___ sushi before that trip.",
+    "options": [
+     "have/eaten",
+     "had/eaten",
+     "was/eating",
+     "did/eat"
+    ],
+    "answer": "had/eaten",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "He ___ (study) for hours before the exam started.",
+    "answer": "had been studying",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Futurs : will / going to / present continuous",
+  "level": "B1/B2",
+  "explanation": "will : décision spontanée, prédiction sans preuve. going to : intention/plan déjà décidé, prédiction avec preuve visible. present continuous : projet organisé avec heure/lieu précis.",
+  "examples": [
+   {
+    "en": "I think it will rain tomorrow.",
+    "fr": "Je pense qu'il va pleuvoir demain. (prédiction)"
+   },
+   {
+    "en": "Look at those clouds — it's going to rain.",
+    "fr": "Regarde ces nuages — il va pleuvoir. (preuve visible)"
+   },
+   {
+    "en": "I'm meeting her at 6pm.",
+    "fr": "Je la retrouve à 18h. (projet organisé)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "mcq",
+    "prompt": "The phone is ringing — I ___ answer it.",
+    "options": [
+     "will",
+     "am going to",
+     "am answering",
+     "answer"
+    ],
+    "answer": "will",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "We ___ (already/decide) — we ___ (go) to Spain this summer.",
+    "answer": "have already decided / are going to go",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "I ___ (meet) the dentist at 3pm tomorrow.",
+    "answer": "'m meeting",
+    "id": 3
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the natural prediction with visible evidence: She's studied so hard, she ___ pass.",
+    "options": [
+     "will",
+     "is going to",
+     "is passing",
+     "would"
+    ],
+    "answer": "is going to",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Conditionnels (0, 1, 2, 3, mixte)",
+  "level": "B1/C1",
+  "explanation": "0 : vérité générale. 1 : possible dans le futur. 2 : hypothétique/irréel au présent. 3 : irréel au passé (regret). Mixte : condition passée + conséquence présente, ou l'inverse.",
+  "examples": [
+   {
+    "en": "If you heat ice, it melts.",
+    "fr": "Si tu chauffes la glace, elle fond. (0)"
+   },
+   {
+    "en": "If it rains, I'll stay home.",
+    "fr": "S'il pleut, je resterai à la maison. (1)"
+   },
+   {
+    "en": "If I won the lottery, I would travel.",
+    "fr": "Si je gagnais au loto, je voyagerais. (2)"
+   },
+   {
+    "en": "If I had studied, I would have passed.",
+    "fr": "Si j'avais étudié, j'aurais réussi. (3)"
+   },
+   {
+    "en": "If I had left earlier, I would be there now.",
+    "fr": "Si j'étais parti plus tôt, je serais là maintenant. (mixte)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "If I ___ (be) you, I would apologise.",
+    "answer": "were",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "If she ___ (study) harder, she would have passed the exam.",
+    "answer": "had studied",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "If you heat water to 100°C, it ___ (boil).",
+    "answer": "boils",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "If it ___ (not/rain) tomorrow, we'll go to the beach.",
+    "answer": "doesn't rain",
+    "id": 4
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the mixed conditional: If he hadn't missed the train, he ___ here now.",
+    "options": [
+     "would be",
+     "would have been",
+     "will be",
+     "was"
+    ],
+    "answer": "would be",
+    "id": 5
+   },
+   {
+    "type": "gap",
+    "prompt": "I wish I ___ (know) the answer.",
+    "answer": "knew",
+    "id": 6
+   },
+   {
+    "type": "gap",
+    "prompt": "I wish I ___ (not/say) that yesterday.",
+    "answer": "hadn't said",
+    "id": 7
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "title": "Modaux de déduction (must / can't / might / could)",
+  "level": "B2/C1",
+  "explanation": "must + V : déduction quasi certaine (positif). can't + V : déduction quasi certaine (négatif, impossible). might/could/may + V : possibilité incertaine.",
+  "examples": [
+   {
+    "en": "He must be tired, he's been working all day.",
+    "fr": "Il doit être fatigué, il travaille depuis toute la journée."
+   },
+   {
+    "en": "She can't be at home, her car isn't there.",
+    "fr": "Elle ne peut pas être chez elle, sa voiture n'est pas là."
+   },
+   {
+    "en": "It might rain later.",
+    "fr": "Il pourrait pleuvoir plus tard."
+   }
+  ],
+  "drills": [
+   {
+    "type": "mcq",
+    "prompt": "The lights are off, they ___ be out.",
+    "options": [
+     "must",
+     "can't",
+     "might",
+     "should"
+    ],
+    "answer": "must",
+    "id": 1
+   },
+   {
+    "type": "mcq",
+    "prompt": "That ___ be true, I saw it with my own eyes.",
+    "options": [
+     "can't",
+     "must",
+     "might not",
+     "could"
+    ],
+    "answer": "must",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "He's not answering — he ___ (deduction/must) be asleep.",
+    "answer": "must",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "She ___ (deduction négative/can't) have finished already, it's only been five minutes.",
+    "answer": "can't",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "title": "Modaux d'obligation et de conseil",
+  "level": "B1/B2",
+  "explanation": "must : obligation forte (souvent interne/l'auteur). have to : obligation externe (règle, loi). should/ought to : conseil. need to : nécessité pratique. don't have to : absence d'obligation (≠ mustn't = interdiction).",
+  "examples": [
+   {
+    "en": "You must wear a seatbelt.",
+    "fr": "Tu dois porter la ceinture. (loi/obligation)"
+   },
+   {
+    "en": "You don't have to come if you're busy.",
+    "fr": "Tu n'es pas obligé de venir si tu es occupé."
+   },
+   {
+    "en": "You mustn't smoke here.",
+    "fr": "Il est interdit de fumer ici."
+   }
+  ],
+  "drills": [
+   {
+    "type": "mcq",
+    "prompt": "Choose: In France, you ___ show ID if a police officer asks.",
+    "options": [
+     "must",
+     "should",
+     "could",
+     "might"
+    ],
+    "answer": "must",
+    "id": 1
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the interdiction: You ___ park here, it's forbidden.",
+    "options": [
+     "mustn't",
+     "don't have to",
+     "shouldn't",
+     "needn't"
+    ],
+    "answer": "mustn't",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "You ___ (conseil) see a doctor about that cough.",
+    "answer": "should",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "You ___ (absence d'obligation) bring anything, we have everything ready.",
+    "answer": "don't have to",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "title": "Passive voice",
+  "level": "B2",
+  "explanation": "Utilisée quand l'action compte plus que l'auteur, ou quand l'auteur est inconnu/évident. Formation : be + participe passé.",
+  "examples": [
+   {
+    "en": "The bridge was built in 1889.",
+    "fr": "Le pont a été construit en 1889."
+   },
+   {
+    "en": "English is spoken all over the world.",
+    "fr": "L'anglais est parlé dans le monde entier."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Transform to passive: They built this house in 1990. → This house ___ (build) in 1990.",
+    "answer": "was built",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Transform to passive: Someone has stolen my bike. → My bike ___ (steal).",
+    "answer": "has been stolen",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "Transform to passive: They are repairing the road. → The road ___ (repair).",
+    "answer": "is being repaired",
+    "id": 3
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the correct passive: The letter ___ tomorrow.",
+    "options": [
+     "will send",
+     "will be sent",
+     "is sending",
+     "sends"
+    ],
+    "answer": "will be sent",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "title": "Discours rapporté (Reported speech)",
+  "level": "B2/C1",
+  "explanation": "Quand on rapporte des paroles avec un verbe introducteur au passé, les temps reculent d'un cran (backshift) et les repères de temps/lieu changent (today → that day, here → there...).",
+  "examples": [
+   {
+    "en": "\"I am tired,\" she said. → She said she was tired.",
+    "fr": "« Je suis fatiguée », a-t-elle dit. → Elle a dit qu'elle était fatiguée."
+   },
+   {
+    "en": "\"I will call you tomorrow,\" he said. → He said he would call me the next day.",
+    "fr": "« Je t'appellerai demain », a-t-il dit. → Il a dit qu'il m'appellerait le lendemain."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "\"I have finished,\" she said. → She said she ___ finished.",
+    "answer": "had",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "\"I can help you,\" he said. → He said he ___ help me.",
+    "answer": "could",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "\"We are leaving now,\" they said. → They said they ___ leaving then.",
+    "answer": "were",
+    "id": 3
+   },
+   {
+    "type": "mcq",
+    "prompt": "\"Did you see him?\" she asked me. → She asked me ___.",
+    "options": [
+     "did I see him",
+     "if I had seen him",
+     "if I see him",
+     "had I seen him"
+    ],
+    "answer": "if I had seen him",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "title": "Relative clauses (défining / non-defining, reduced)",
+  "level": "B2/C1",
+  "explanation": "Defining : information essentielle, pas de virgules (that/who/which). Non-defining : information supplémentaire, entre virgules (who/which, jamais 'that'). Reduced : on peut parfois supprimer le pronom relatif ou le remplacer par un participe.",
+  "examples": [
+   {
+    "en": "The man who called you is my brother.",
+    "fr": "L'homme qui t'a appelé est mon frère. (essentiel)"
+   },
+   {
+    "en": "My brother, who lives in Paris, is a doctor.",
+    "fr": "Mon frère, qui vit à Paris, est médecin. (info supplémentaire)"
+   },
+   {
+    "en": "The book lying on the table is mine.",
+    "fr": "Le livre posé sur la table est à moi. (reduced: which is lying → lying)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "The woman ___ works with me is French.",
+    "answer": "who",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Paris, ___ is the capital of France, attracts millions of tourists.",
+    "answer": "which",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose correct (non-defining, cannot use 'that'): My car, ___ I bought last year, broke down.",
+    "options": [
+     "that",
+     "which",
+     "who",
+     "-"
+    ],
+    "answer": "which",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "Reduce: The people who are waiting outside are cold. → The people ___ outside are cold.",
+    "answer": "waiting",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "title": "Inversion et emphase",
+  "level": "C1",
+  "explanation": "Après certains adverbes négatifs/restrictifs en tête de phrase (never, rarely, not only, no sooner, hardly), le sujet et l'auxiliaire s'inversent — registre soutenu/littéraire.",
+  "examples": [
+   {
+    "en": "Never have I seen such a mess.",
+    "fr": "Jamais je n'ai vu un tel désordre."
+   },
+   {
+    "en": "Not only did she win, but she also broke the record.",
+    "fr": "Non seulement elle a gagné, mais elle a aussi battu le record."
+   },
+   {
+    "en": "No sooner had he arrived than the phone rang.",
+    "fr": "À peine était-il arrivé que le téléphone a sonné."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Rewrite with inversion: I have never seen such beauty. → Never ___ such beauty.",
+    "answer": "have I seen",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Rewrite with inversion: She rarely complains. → Rarely ___.",
+    "answer": "does she complain",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: Not only ___ late, but he also forgot the documents.",
+    "options": [
+     "he was",
+     "was he",
+     "he did",
+     "did he was"
+    ],
+    "answer": "was he",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "title": "Causative (have / get something done)",
+  "level": "B2/C1",
+  "explanation": "Structure pour dire qu'on fait faire quelque chose par quelqu'un d'autre : have/get + objet + participe passé.",
+  "examples": [
+   {
+    "en": "I had my car repaired.",
+    "fr": "J'ai fait réparer ma voiture."
+   },
+   {
+    "en": "She's getting her hair cut tomorrow.",
+    "fr": "Elle se fait couper les cheveux demain."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Rewrite as causative: A plumber fixed my sink. → I ___ (have) my sink fixed.",
+    "answer": "had",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "She ___ (get) her photo taken for the passport next week.",
+    "answer": "is getting",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose the causative form: He ___ his house painted last month.",
+    "options": [
+     "had",
+     "did",
+     "made",
+     "was"
+    ],
+    "answer": "had",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "title": "Articles (a/an/the/zero article)",
+  "level": "B1/B2",
+  "explanation": "a/an : première mention, non spécifique. the : élément déjà connu/spécifique/unique. Zero article : généralités (pluriel/indénombrable), la plupart des noms propres.",
+  "examples": [
+   {
+    "en": "I saw a cat. The cat was black.",
+    "fr": "J'ai vu un chat. Le chat était noir."
+   },
+   {
+    "en": "Dogs are loyal animals.",
+    "fr": "Les chiens sont des animaux loyaux. (généralité, zero article)"
+   },
+   {
+    "en": "The sun rises in the east.",
+    "fr": "Le soleil se lève à l'est. (élément unique)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "___ Eiffel Tower is in Paris.",
+    "answer": "The",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "I need ___ umbrella, it's raining.",
+    "answer": "an",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "___ honesty is the best policy. (généralité, indénombrable)",
+    "answer": "-",
+    "id": 3
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: She's ___ best student in the class.",
+    "options": [
+     "a",
+     "an",
+     "the",
+     "-"
+    ],
+    "answer": "the",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "title": "Present Continuous (valeur et futur proche)",
+  "level": "A2/B1",
+  "explanation": "Action en cours au moment de parler, situation temporaire, ou projet futur déjà organisé (avec repère temporel).",
+  "examples": [
+   {
+    "en": "She's reading a book right now.",
+    "fr": "Elle lit un livre en ce moment."
+   },
+   {
+    "en": "I'm flying to Rome next Friday.",
+    "fr": "Je m'envole pour Rome vendredi prochain."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Shh, the baby ___ (sleep).",
+    "answer": "is sleeping",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "We ___ (have) dinner with them on Saturday.",
+    "answer": "are having",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: I can't talk now, I ___ dinner.",
+    "options": [
+     "cook",
+     "am cooking",
+     "cooked",
+     "have cooked"
+    ],
+    "answer": "am cooking",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "They ___ (not/work) today, it's a holiday.",
+    "answer": "aren't working",
+    "id": 4
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "title": "Past Continuous",
+  "level": "A2/B1",
+  "explanation": "Action en cours à un moment précis du passé, souvent interrompue par une autre action (past simple), ou deux actions parallèles.",
+  "examples": [
+   {
+    "en": "I was watching TV when the phone rang.",
+    "fr": "Je regardais la télé quand le téléphone a sonné."
+   },
+   {
+    "en": "While she was cooking, he was setting the table.",
+    "fr": "Pendant qu'elle cuisinait, il mettait la table."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "They ___ (walk) in the park when it started to rain.",
+    "answer": "were walking",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "What ___ you ___ (do) at 8pm last night?",
+    "answer": "were / doing",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: I ___ a shower when the power went out.",
+    "options": [
+     "took",
+     "was taking",
+     "take",
+     "have taken"
+    ],
+    "answer": "was taking",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "title": "Future Continuous",
+  "level": "B2",
+  "explanation": "Action qui sera en cours à un moment précis du futur.",
+  "examples": [
+   {
+    "en": "This time tomorrow, I'll be lying on a beach.",
+    "fr": "Demain à cette heure-ci, je serai en train de me prélasser sur une plage."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "At 9pm we ___ (fly) over the Atlantic.",
+    "answer": "will be flying",
+    "id": 1
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: Don't call at noon, I ___ a meeting.",
+    "options": [
+     "will have",
+     "will be having",
+     "have",
+     "am having"
+    ],
+    "answer": "will be having",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "title": "Future Perfect (simple et continu)",
+  "level": "B2/C1",
+  "explanation": "Action qui sera terminée avant un moment donné du futur (simple), ou dont on souligne la durée écoulée à ce moment-là (continu).",
+  "examples": [
+   {
+    "en": "By 2030, she will have finished her PhD.",
+    "fr": "D'ici 2030, elle aura fini sa thèse."
+   },
+   {
+    "en": "By next year, I will have been working here for a decade.",
+    "fr": "L'année prochaine, cela fera dix ans que je travaille ici."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "By the time you arrive, we ___ (finish) dinner.",
+    "answer": "will have finished",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "By June, she ___ (study) English for five years.",
+    "answer": "will have been studying",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "title": "Be going to / Future in the past",
+  "level": "B1/B2",
+  "explanation": "'be going to' : intention ou prédiction basée sur des preuves présentes. 'Future in the past' (was/were going to) : ce qui était prévu depuis le passé, souvent non réalisé.",
+  "examples": [
+   {
+    "en": "I'm going to study medicine.",
+    "fr": "Je vais étudier la médecine. (intention)"
+   },
+   {
+    "en": "I was going to call you, but I forgot.",
+    "fr": "J'allais t'appeler, mais j'ai oublié."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "We ___ (go to/visit) Japan, but we cancelled the trip.",
+    "answer": "were going to visit",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Look at those clouds, it ___ (go to/rain).",
+    "answer": "is going to rain",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "title": "Modaux de possibilité et permission (can / could / may / might)",
+  "level": "A2/B2",
+  "explanation": "can : capacité/permission informelle. could : capacité passée ou suggestion polie. may : permission formelle ou possibilité. might : possibilité plus faible/incertaine.",
+  "examples": [
+   {
+    "en": "Can I open the window?",
+    "fr": "Je peux ouvrir la fenêtre ?"
+   },
+   {
+    "en": "You may leave when you're finished.",
+    "fr": "Vous pouvez partir quand vous avez terminé. (formel)"
+   },
+   {
+    "en": "We could go to the cinema tonight.",
+    "fr": "On pourrait aller au cinéma ce soir. (suggestion)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "mcq",
+    "prompt": "Choose the most formal permission: ___ I ask you a question, Professor?",
+    "options": [
+     "Can",
+     "May",
+     "Could",
+     "Might"
+    ],
+    "answer": "May",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "When I was a child, I ___ (can) swim very well.",
+    "answer": "could",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "It ___ (might) rain later, take an umbrella just in case.",
+    "answer": "might",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "title": "Would (habitudes passées, politesse, hypothèse)",
+  "level": "B1/B2",
+  "explanation": "would + V : habitude passée (comme used to, mais sans état), politesse (would you...?), et conséquence dans les conditionnels.",
+  "examples": [
+   {
+    "en": "When I was young, we would spend summers at the beach.",
+    "fr": "Quand j'étais jeune, on passait les étés à la plage."
+   },
+   {
+    "en": "Would you like some tea?",
+    "fr": "Voudriez-vous du thé ?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "___ you mind closing the door? (politesse)",
+    "answer": "Would",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Every Sunday, my grandfather ___ (would) tell us stories.",
+    "answer": "would",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "title": "Shall / semi-modaux (need / dare)",
+  "level": "B2/C1",
+  "explanation": "shall : offres et suggestions (Shall we...?), rare ailleurs en anglais moderne. need/dare peuvent se comporter comme modaux (sans 's', sans 'to') dans des contextes négatifs/interrogatifs formels.",
+  "examples": [
+   {
+    "en": "Shall we begin?",
+    "fr": "On commence ?"
+   },
+   {
+    "en": "You needn't worry about it.",
+    "fr": "Tu n'as pas besoin de t'en inquiéter."
+   },
+   {
+    "en": "How dare you speak to me like that!",
+    "fr": "Comment oses-tu me parler comme ça !"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "___ we dance? (proposition polie)",
+    "answer": "Shall",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "You ___ (need, forme modale) not bring anything.",
+    "answer": "needn't",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "title": "Cleft sentences (emphase)",
+  "level": "C1",
+  "explanation": "Structures qui mettent en relief un élément de la phrase : 'It is/was ... that/who ...' (it-cleft) ou 'What ... is/was ...' (wh-cleft).",
+  "examples": [
+   {
+    "en": "It was John who broke the window.",
+    "fr": "C'est John qui a cassé la fenêtre."
+   },
+   {
+    "en": "What I need is a holiday.",
+    "fr": "Ce dont j'ai besoin, c'est de vacances."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Rewrite with emphasis: I need more time. → What I ___ is more time.",
+    "answer": "need",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Rewrite: John broke the window. (emphasis on John) → It ___ John who broke the window.",
+    "answer": "was",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "title": "Participle clauses",
+  "level": "C1",
+  "explanation": "Remplacent une proposition relative ou de temps/cause par un participe présent (-ing, actif) ou passé (-ed, passif), style condensé et soutenu.",
+  "examples": [
+   {
+    "en": "Feeling tired, she went to bed early.",
+    "fr": "Se sentant fatiguée, elle s'est couchée tôt."
+   },
+   {
+    "en": "Written in 1990, the book is now a classic.",
+    "fr": "Écrit en 1990, le livre est aujourd'hui un classique."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Rewrite: Because he didn't know the answer, he stayed silent. → Not ___ (know) the answer, he stayed silent.",
+    "answer": "knowing",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Rewrite: The book, which was translated into 10 languages, sold millions. → ___ (translate) into 10 languages, the book sold millions.",
+    "answer": "Translated",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "title": "Subjunctive (subjonctif anglais)",
+  "level": "C1",
+  "explanation": "Forme de base du verbe (sans -s, sans 'to') après des verbes/adjectifs exprimant une suggestion, exigence ou nécessité : suggest, recommend, insist, essential, important, que + sujet + base verbale.",
+  "examples": [
+   {
+    "en": "I suggest that he leave immediately.",
+    "fr": "Je suggère qu'il parte immédiatement."
+   },
+   {
+    "en": "It's essential that she be informed.",
+    "fr": "Il est essentiel qu'elle soit informée."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "The doctor recommended that he ___ (rest) for a week.",
+    "answer": "rest",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "It's vital that everyone ___ (be) on time.",
+    "answer": "be",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "title": "Ellipsis (ellipse)",
+  "level": "C1",
+  "explanation": "Omission d'éléments déjà connus par le contexte pour éviter la répétition, très courant à l'oral comme à l'écrit soigné.",
+  "examples": [
+   {
+    "en": "She can speak French, and so can I.",
+    "fr": "Elle sait parler français, et moi aussi."
+   },
+   {
+    "en": "He wanted to come, but couldn't [come].",
+    "fr": "Il voulait venir, mais n'a pas pu."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "He hasn't finished, but she ___.",
+    "answer": "has",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "I don't like coffee, but my sister ___.",
+    "answer": "does",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "title": "Fronting (mise en tête)",
+  "level": "C1",
+  "explanation": "Déplacer un élément (adjectif, complément, participe) en tête de phrase pour l'accentuer, style littéraire/soutenu.",
+  "examples": [
+   {
+    "en": "Strange as it may seem, he refused the offer.",
+    "fr": "Aussi étrange que cela puisse paraître, il a refusé l'offre."
+   },
+   {
+    "en": "Down came the rain.",
+    "fr": "La pluie s'est mise à tomber."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Rewrite with fronting: Although it seems unlikely, it's true. → Unlikely ___ it seems, it's true.",
+    "answer": "as",
+    "id": 1
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "title": "Nominalisation",
+  "level": "C1",
+  "explanation": "Transformer un verbe ou un adjectif en nom pour un style plus formel/académique (decide → decision, apply → application, aware → awareness).",
+  "examples": [
+   {
+    "en": "They decided to merge. → Their decision to merge surprised everyone.",
+    "fr": "Leur décision de fusionner a surpris tout le monde."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "Nominalise 'to argue': the ___ was convincing.",
+    "answer": "argument",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Nominalise 'to decide': the ___ was final.",
+    "answer": "decision",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "Nominalise 'aware' (adjective→noun): raise public ___.",
+    "answer": "awareness",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "title": "Quantifiers (quantifieurs)",
+  "level": "A2/B1",
+  "explanation": "much/many, few/little, several, a lot of, most, all, none — s'accordent selon dénombrable/indénombrable.",
+  "examples": [
+   {
+    "en": "There isn't much time left.",
+    "fr": "Il ne reste pas beaucoup de temps. (indénombrable)"
+   },
+   {
+    "en": "Few people knew the answer.",
+    "fr": "Peu de gens connaissaient la réponse. (dénombrable, sens négatif)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "How ___ water do you drink a day?",
+    "answer": "much",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "There are ___ (peu de, dénombrable, sens positif) good restaurants nearby.",
+    "answer": "a few",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: I have ___ money left.",
+    "options": [
+     "few",
+     "many",
+     "little",
+     "fewer"
+    ],
+    "answer": "little",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "title": "Possessives et demonstratives",
+  "level": "A1/A2",
+  "explanation": "Possessifs (my, your, his, her, its, our, their / mine, yours...) et démonstratifs (this/that/these/those) selon proximité et nombre.",
+  "examples": [
+   {
+    "en": "This is my book; that one over there is hers.",
+    "fr": "Ceci est mon livre ; celui-là est le sien."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "___ (demonstrative, plural, near) shoes are new.",
+    "answer": "These",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "Is this pen yours or ___ (his)?",
+    "answer": "his",
+    "id": 2
+   },
+   {
+    "type": "mcq",
+    "prompt": "Choose: ___ car is parked outside (belongs to them).",
+    "options": [
+     "Their",
+     "Theirs",
+     "They",
+     "Them"
+    ],
+    "answer": "Their",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "title": "Determiners : articles zéro vs the (approfondissement)",
+  "level": "B2",
+  "explanation": "Zero article pour les généralités, les noms propres de pays (sauf pluriels/composés: the Netherlands, the UK), les repas, les langues. 'The' pour les éléments uniques ou déjà identifiés.",
+  "examples": [
+   {
+    "en": "He studies at Oxford University.",
+    "fr": "Il étudie à l'université d'Oxford. (zero article, nom propre)"
+   },
+   {
+    "en": "The United States has 50 states.",
+    "fr": "Les États-Unis ont 50 états. (the + nom pluriel/composé)"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "___ Netherlands is famous for its tulips.",
+    "answer": "The",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "We had ___ breakfast at 7am. (zero article)",
+    "answer": "-",
+    "id": 2
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "title": "Prépositions de temps (in / on / at)",
+  "level": "A2",
+  "explanation": "at + heure précise, on + jour/date, in + mois/année/période plus longue.",
+  "examples": [
+   {
+    "en": "The meeting is at 3pm on Monday in June.",
+    "fr": "La réunion est à 15h lundi en juin."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "I was born ___ 1998.",
+    "answer": "in",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "See you ___ Friday ___ 6pm.",
+    "answer": "on / at",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "She always feels sleepy ___ the afternoon.",
+    "answer": "in",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "title": "Prépositions dépendantes (adjectif/verbe + préposition)",
+  "level": "B2/C1",
+  "explanation": "Certains adjectifs et verbes sont toujours suivis de la même préposition, sans logique traduisible du français : interested in, good at, capable of, responsible for, depend on, insist on, succeed in...",
+  "examples": [
+   {
+    "en": "She's responsible for the whole project.",
+    "fr": "Elle est responsable de tout le projet."
+   },
+   {
+    "en": "It depends on the weather.",
+    "fr": "Ça dépend du temps."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "He's very good ___ maths.",
+    "answer": "at",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "I'm interested ___ learning Japanese.",
+    "answer": "in",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "It all depends ___ your budget.",
+    "answer": "on",
+    "id": 3
+   },
+   {
+    "type": "gap",
+    "prompt": "She insisted ___ paying for dinner.",
+    "answer": "on",
+    "id": 4
+   },
+   {
+    "type": "gap",
+    "prompt": "They finally succeeded ___ solving the problem.",
+    "answer": "in",
+    "id": 5
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "title": "Question tags",
+  "level": "B1",
+  "explanation": "Petites questions ajoutées en fin de phrase pour confirmer ou solliciter l'accord : auxiliaire inversé + pronom, polarité opposée à la phrase principale.",
+  "examples": [
+   {
+    "en": "You're coming, aren't you?",
+    "fr": "Tu viens, n'est-ce pas ?"
+   },
+   {
+    "en": "She doesn't like coffee, does she?",
+    "fr": "Elle n'aime pas le café, n'est-ce pas ?"
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "It's cold today, ___ it?",
+    "answer": "isn't",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "They haven't left yet, ___ they?",
+    "answer": "have",
+    "id": 2
+   },
+   {
+    "type": "gap",
+    "prompt": "You can swim, ___ you?",
+    "answer": "can't",
+    "id": 3
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "title": "Used to / be used to / get used to",
+  "level": "B1/B2",
+  "explanation": "used to + base : habitude passée révolue. be used to + -ing : être habitué à. get used to + -ing : s'habituer progressivement.",
+  "examples": [
+   {
+    "en": "I used to live in Berlin.",
+    "fr": "J'habitais à Berlin (avant)."
+   },
+   {
+    "en": "I'm used to working nights now.",
+    "fr": "Je suis habitué à travailler de nuit maintenant."
+   },
+   {
+    "en": "It took a while to get used to the new schedule.",
+    "fr": "Il a fallu un moment pour s'habituer au nouvel emploi du temps."
+   }
+  ],
+  "drills": [
+   {
+    "type": "gap",
+    "prompt": "She ___ (used to) smoke, but she quit years ago.",
+    "answer": "used to",
+    "id": 1
+   },
+   {
+    "type": "gap",
+    "prompt": "He's finally ___ (get used to) the cold weather here.",
+    "answer": "getting used to",
+    "id": 2
+   }
+  ]
+ }
+]
