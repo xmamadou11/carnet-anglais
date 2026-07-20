@@ -1,0 +1,959 @@
+[
+ {
+  "id": 1,
+  "phrase": "hit the nail on the head",
+  "translation": "dire/faire exactement juste",
+  "definition": "To describe exactly what is causing a situation or problem.",
+  "example": {
+   "en": "You hit the nail on the head with that comment.",
+   "fr": "Tu as visé juste avec cette remarque."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 2,
+  "phrase": "once in a blue moon",
+  "translation": "très rarement",
+  "definition": "Something that happens very rarely.",
+  "example": {
+   "en": "We only eat out once in a blue moon.",
+   "fr": "On ne mange au restaurant que très rarement."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 3,
+  "phrase": "piece of cake",
+  "translation": "un jeu d'enfant, très facile",
+  "definition": "Something very easy to do.",
+  "example": {
+   "en": "The exam was a piece of cake.",
+   "fr": "L'examen était un jeu d'enfant."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 4,
+  "phrase": "spill the beans",
+  "translation": "vendre la mèche",
+  "definition": "To reveal a secret.",
+  "example": {
+   "en": "She spilled the beans about the surprise party.",
+   "fr": "Elle a vendu la mèche sur la fête surprise."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 5,
+  "phrase": "beat around the bush",
+  "translation": "tourner autour du pot",
+  "definition": "To avoid talking directly about the subject.",
+  "example": {
+   "en": "Stop beating around the bush and tell me what happened.",
+   "fr": "Arrête de tourner autour du pot et dis-moi ce qui s'est passé."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 6,
+  "phrase": "under the weather",
+  "translation": "pas dans son assiette, malade",
+  "definition": "Feeling slightly ill.",
+  "example": {
+   "en": "I'm feeling a bit under the weather today.",
+   "fr": "Je ne me sens pas très bien aujourd'hui."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 7,
+  "phrase": "break the ice",
+  "translation": "briser la glace",
+  "definition": "To make people feel more comfortable in a social situation.",
+  "example": {
+   "en": "He told a joke to break the ice.",
+   "fr": "Il a raconté une blague pour briser la glace."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 8,
+  "phrase": "cost an arm and a leg",
+  "translation": "coûter les yeux de la tête",
+  "definition": "To be very expensive.",
+  "example": {
+   "en": "That new phone cost me an arm and a leg.",
+   "fr": "Ce nouveau téléphone m'a coûté les yeux de la tête."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 9,
+  "phrase": "hit the sack",
+  "translation": "aller se coucher",
+  "definition": "To go to bed.",
+  "example": {
+   "en": "I'm exhausted, I'm going to hit the sack.",
+   "fr": "Je suis épuisé, je vais me coucher."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 10,
+  "phrase": "let the cat out of the bag",
+  "translation": "vendre la mèche (par erreur)",
+  "definition": "To accidentally reveal a secret.",
+  "example": {
+   "en": "He let the cat out of the bag about the engagement.",
+   "fr": "Il a vendu la mèche par erreur sur les fiançailles."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 11,
+  "phrase": "on the ball",
+  "translation": "efficace, réactif",
+  "definition": "Alert and competent.",
+  "example": {
+   "en": "She's really on the ball at work.",
+   "fr": "Elle est vraiment efficace au travail."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 12,
+  "phrase": "miss the boat",
+  "translation": "rater le coche",
+  "definition": "To miss an opportunity.",
+  "example": {
+   "en": "If you don't apply now, you'll miss the boat.",
+   "fr": "Si tu ne postules pas maintenant, tu vas rater le coche."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 13,
+  "phrase": "call it a day",
+  "translation": "arrêter là pour aujourd'hui",
+  "definition": "To stop working on something for the day.",
+  "example": {
+   "en": "Let's call it a day, we've done enough.",
+   "fr": "Arrêtons-nous là pour aujourd'hui, on a assez fait."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 14,
+  "phrase": "get cold feet",
+  "translation": "avoir des doutes de dernière minute (le trac)",
+  "definition": "To become nervous about doing something you had planned.",
+  "example": {
+   "en": "He got cold feet before the wedding.",
+   "fr": "Il a eu des doutes de dernière minute avant le mariage."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 15,
+  "phrase": "a blessing in disguise",
+  "translation": "un mal pour un bien",
+  "definition": "Something that seems bad at first but turns out well.",
+  "example": {
+   "en": "Losing that job was a blessing in disguise.",
+   "fr": "Perdre cet emploi était un mal pour un bien."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 16,
+  "phrase": "bite the bullet",
+  "translation": "serrer les dents, se résigner",
+  "definition": "To force yourself to do something difficult or unpleasant.",
+  "example": {
+   "en": "I'll just bite the bullet and tell her the truth.",
+   "fr": "Je vais juste serrer les dents et lui dire la vérité."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 17,
+  "phrase": "burn the midnight oil",
+  "translation": "travailler tard dans la nuit",
+  "definition": "To work late into the night.",
+  "example": {
+   "en": "She's been burning the midnight oil to finish the report.",
+   "fr": "Elle travaille tard le soir pour finir le rapport."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 18,
+  "phrase": "cut corners",
+  "translation": "bâcler, faire des économies de bouts de chandelle",
+  "definition": "To do something in the easiest or cheapest way, often reducing quality.",
+  "example": {
+   "en": "They cut corners on the construction.",
+   "fr": "Ils ont bâclé la construction pour économiser."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 19,
+  "phrase": "get the ball rolling",
+  "translation": "lancer le mouvement",
+  "definition": "To start something.",
+  "example": {
+   "en": "Let's get the ball rolling on this project.",
+   "fr": "Lançons ce projet."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 20,
+  "phrase": "go the extra mile",
+  "translation": "faire un effort supplémentaire",
+  "definition": "To make more effort than is expected.",
+  "example": {
+   "en": "She always goes the extra mile for her clients.",
+   "fr": "Elle en fait toujours plus pour ses clients."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 21,
+  "phrase": "in the same boat",
+  "translation": "dans le même bateau",
+  "definition": "In the same difficult situation as someone else.",
+  "example": {
+   "en": "Don't worry, we're all in the same boat.",
+   "fr": "T'inquiète, on est tous dans le même bateau."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 22,
+  "phrase": "keep an eye on",
+  "translation": "surveiller",
+  "definition": "To watch or monitor something/someone.",
+  "example": {
+   "en": "Can you keep an eye on my bag?",
+   "fr": "Tu peux surveiller mon sac ?"
+  },
+  "level": "A2"
+ },
+ {
+  "id": 23,
+  "phrase": "kill two birds with one stone",
+  "translation": "faire d'une pierre deux coups",
+  "definition": "To achieve two things with a single action.",
+  "example": {
+   "en": "I killed two birds with one stone by combining the trips.",
+   "fr": "J'ai fait d'une pierre deux coups en combinant les trajets."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 24,
+  "phrase": "let sleeping dogs lie",
+  "translation": "ne pas réveiller le chat qui dort",
+  "definition": "To avoid bringing up an old issue that could cause problems.",
+  "example": {
+   "en": "It's better to let sleeping dogs lie.",
+   "fr": "Il vaut mieux ne pas réveiller le chat qui dort."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 25,
+  "phrase": "on thin ice",
+  "translation": "sur un terrain glissant, en danger",
+  "definition": "In a risky or precarious situation.",
+  "example": {
+   "en": "He's on thin ice after his last mistake.",
+   "fr": "Il est sur un terrain glissant après sa dernière erreur."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 26,
+  "phrase": "out of the blue",
+  "translation": "de nulle part, à l'improviste",
+  "definition": "Unexpectedly.",
+  "example": {
+   "en": "She called me out of the blue yesterday.",
+   "fr": "Elle m'a appelé à l'improviste hier."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 27,
+  "phrase": "pull yourself together",
+  "translation": "se ressaisir",
+  "definition": "To calm down and behave in a normal way.",
+  "example": {
+   "en": "Come on, pull yourself together.",
+   "fr": "Allez, ressaisis-toi."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 28,
+  "phrase": "see eye to eye",
+  "translation": "être sur la même longueur d'onde",
+  "definition": "To agree with someone.",
+  "example": {
+   "en": "We don't always see eye to eye on politics.",
+   "fr": "On n'est pas toujours d'accord sur la politique."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 29,
+  "phrase": "speak of the devil",
+  "translation": "quand on parle du loup",
+  "definition": "Said when a person you were talking about appears.",
+  "example": {
+   "en": "Speak of the devil, here comes John now.",
+   "fr": "Quand on parle du loup, voilà John."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 30,
+  "phrase": "the last straw",
+  "translation": "la goutte qui fait déborder le vase",
+  "definition": "The final problem in a series that causes a complete loss of patience.",
+  "example": {
+   "en": "His lateness was the last straw.",
+   "fr": "Son retard a été la goutte qui a fait déborder le vase."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 31,
+  "phrase": "throw in the towel",
+  "translation": "jeter l'éponge",
+  "definition": "To give up.",
+  "example": {
+   "en": "After three failed attempts, he threw in the towel.",
+   "fr": "Après trois tentatives ratées, il a jeté l'éponge."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 32,
+  "phrase": "under wraps",
+  "translation": "tenu secret",
+  "definition": "Kept secret.",
+  "example": {
+   "en": "The project details are being kept under wraps.",
+   "fr": "Les détails du projet sont tenus secrets."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 33,
+  "phrase": "water under the bridge",
+  "translation": "du passé, de l'eau sous les ponts",
+  "definition": "Something in the past that no longer matters.",
+  "example": {
+   "en": "Let's forget it, it's water under the bridge.",
+   "fr": "Oublions ça, c'est de l'eau sous les ponts."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 34,
+  "phrase": "a piece of the pie",
+  "translation": "une part du gâteau",
+  "definition": "A share of something, especially profits.",
+  "example": {
+   "en": "Everyone wants a piece of the pie.",
+   "fr": "Tout le monde veut sa part du gâteau."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 35,
+  "phrase": "back to square one",
+  "translation": "retour à la case départ",
+  "definition": "Back to the starting point.",
+  "example": {
+   "en": "The deal fell through, so we're back to square one.",
+   "fr": "L'accord a échoué, on est de retour à la case départ."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 36,
+  "phrase": "bark up the wrong tree",
+  "translation": "se tromper de cible, faire fausse route",
+  "definition": "To pursue a mistaken course of action.",
+  "example": {
+   "en": "If you think I did it, you're barking up the wrong tree.",
+   "fr": "Si tu penses que c'est moi, tu fais fausse route."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 37,
+  "phrase": "by the skin of your teeth",
+  "translation": "de justesse",
+  "definition": "Just barely.",
+  "example": {
+   "en": "We caught the train by the skin of our teeth.",
+   "fr": "On a attrapé le train de justesse."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 38,
+  "phrase": "cut to the chase",
+  "translation": "aller droit au but",
+  "definition": "To get to the point without wasting time.",
+  "example": {
+   "en": "Let's cut to the chase, what do you want?",
+   "fr": "Allons droit au but, que veux-tu ?"
+  },
+  "level": "B2"
+ },
+ {
+  "id": 39,
+  "phrase": "give someone the benefit of the doubt",
+  "translation": "accorder le bénéfice du doute",
+  "definition": "To believe someone even though you're not certain they're right.",
+  "example": {
+   "en": "I'll give him the benefit of the doubt this time.",
+   "fr": "Je vais lui accorder le bénéfice du doute cette fois."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 40,
+  "phrase": "hit the ground running",
+  "translation": "démarrer sur les chapeaux de roue",
+  "definition": "To start something and proceed at a fast pace immediately.",
+  "example": {
+   "en": "She hit the ground running in her new job.",
+   "fr": "Elle a démarré sur les chapeaux de roue dans son nouveau poste."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 41,
+  "phrase": "jump on the bandwagon",
+  "translation": "suivre la tendance, sauter dans le train en marche",
+  "definition": "To join others in doing something popular.",
+  "example": {
+   "en": "Everyone is jumping on the bandwagon with AI.",
+   "fr": "Tout le monde saute dans le train en marche de l'IA."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 42,
+  "phrase": "keep your chin up",
+  "translation": "garder le moral",
+  "definition": "To stay positive in a difficult situation.",
+  "example": {
+   "en": "Keep your chin up, things will get better.",
+   "fr": "Garde le moral, ça va s'arranger."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 43,
+  "phrase": "make ends meet",
+  "translation": "joindre les deux bouts",
+  "definition": "To have just enough money to live on.",
+  "example": {
+   "en": "It's hard to make ends meet these days.",
+   "fr": "C'est dur de joindre les deux bouts ces temps-ci."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 44,
+  "phrase": "on the same page",
+  "translation": "sur la même longueur d'onde (d'accord)",
+  "definition": "In agreement about something.",
+  "example": {
+   "en": "Let's make sure we're all on the same page.",
+   "fr": "Assurons-nous qu'on est tous sur la même longueur d'onde."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 45,
+  "phrase": "play devil's advocate",
+  "translation": "jouer l'avocat du diable",
+  "definition": "To argue the opposite side just to provoke discussion.",
+  "example": {
+   "en": "I'm just playing devil's advocate here.",
+   "fr": "Je joue juste l'avocat du diable là."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 46,
+  "phrase": "read between the lines",
+  "translation": "lire entre les lignes",
+  "definition": "To understand a hidden meaning.",
+  "example": {
+   "en": "You have to read between the lines with him.",
+   "fr": "Il faut lire entre les lignes avec lui."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 47,
+  "phrase": "sit on the fence",
+  "translation": "ménager la chèvre et le chou, ne pas prendre parti",
+  "definition": "To avoid making a decision or taking sides.",
+  "example": {
+   "en": "He always sits on the fence in arguments.",
+   "fr": "Il ne prend jamais parti dans les débats."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 48,
+  "phrase": "take it with a grain of salt",
+  "translation": "prendre avec des pincettes",
+  "definition": "To not take something too seriously or literally.",
+  "example": {
+   "en": "Take his advice with a grain of salt.",
+   "fr": "Prends ses conseils avec des pincettes."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 49,
+  "phrase": "the tip of the iceberg",
+  "translation": "la partie visible de l'iceberg",
+  "definition": "A small, visible part of a much larger problem.",
+  "example": {
+   "en": "These complaints are just the tip of the iceberg.",
+   "fr": "Ces plaintes ne sont que la partie visible de l'iceberg."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 50,
+  "phrase": "throw someone under the bus",
+  "translation": "sacrifier quelqu'un, trahir",
+  "definition": "To betray someone for personal advantage.",
+  "example": {
+   "en": "He threw his colleague under the bus to save himself.",
+   "fr": "Il a sacrifié son collègue pour se sauver."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 51,
+  "phrase": "time flies",
+  "translation": "le temps passe vite",
+  "definition": "Time passes quickly.",
+  "example": {
+   "en": "Time flies when you're having fun.",
+   "fr": "Le temps passe vite quand on s'amuse."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 52,
+  "phrase": "up in the air",
+  "translation": "incertain, pas encore décidé",
+  "definition": "Not yet decided.",
+  "example": {
+   "en": "Our holiday plans are still up in the air.",
+   "fr": "Nos projets de vacances sont encore incertains."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 53,
+  "phrase": "a piece of cake",
+  "translation": "(déjà listé sous forme proche) — un jeu d'enfant",
+  "definition": "Alternative note kept for pattern variety only.",
+  "example": {
+   "en": "This test was a piece of cake.",
+   "fr": "Ce test était un jeu d'enfant."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 54,
+  "phrase": "actions speak louder than words",
+  "translation": "les actes valent plus que les mots",
+  "definition": "What you do matters more than what you say.",
+  "example": {
+   "en": "He didn't apologise, but he helped us move — actions speak louder than words.",
+   "fr": "Il ne s'est pas excusé, mais il nous a aidés à déménager — les actes valent plus que les mots."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 55,
+  "phrase": "add insult to injury",
+  "translation": "enfoncer le clou, aggraver la situation",
+  "definition": "To make a bad situation even worse.",
+  "example": {
+   "en": "To add insult to injury, it started raining after we lost.",
+   "fr": "Pour aggraver les choses, il s'est mis à pleuvoir après notre défaite."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 56,
+  "phrase": "against the clock",
+  "translation": "dans l'urgence, contre la montre",
+  "definition": "Doing something very quickly to meet a deadline.",
+  "example": {
+   "en": "We were working against the clock to finish the report.",
+   "fr": "On travaillait contre la montre pour finir le rapport."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 57,
+  "phrase": "at the drop of a hat",
+  "translation": "sur-le-champ, sans hésiter",
+  "definition": "Without any hesitation, immediately.",
+  "example": {
+   "en": "She would help you at the drop of a hat.",
+   "fr": "Elle t'aiderait sans hésiter une seconde."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 58,
+  "phrase": "be in someone's shoes",
+  "translation": "être à la place de quelqu'un",
+  "definition": "To be in someone else's situation.",
+  "example": {
+   "en": "I wouldn't want to be in his shoes right now.",
+   "fr": "Je n'aimerais pas être à sa place en ce moment."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 59,
+  "phrase": "best of both worlds",
+  "translation": "le meilleur des deux mondes",
+  "definition": "The advantages of two different things at once.",
+  "example": {
+   "en": "Working from a café gives you the best of both worlds.",
+   "fr": "Travailler dans un café te donne le meilleur des deux mondes."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 60,
+  "phrase": "bite off more than you can chew",
+  "translation": "avoir les yeux plus gros que le ventre",
+  "definition": "To take on more than you can handle.",
+  "example": {
+   "en": "He bit off more than he could chew with that project.",
+   "fr": "Il a eu les yeux plus gros que le ventre avec ce projet."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 61,
+  "phrase": "caught red-handed",
+  "translation": "pris la main dans le sac",
+  "definition": "Caught in the act of doing something wrong.",
+  "example": {
+   "en": "He was caught red-handed stealing from the till.",
+   "fr": "Il a été pris la main dans le sac en train de voler la caisse."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 62,
+  "phrase": "come rain or shine",
+  "translation": "quoi qu'il arrive, contre vents et marées",
+  "definition": "Regardless of circumstances.",
+  "example": {
+   "en": "We go for a walk every day, come rain or shine.",
+   "fr": "On se promène tous les jours, quoi qu'il arrive."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 63,
+  "phrase": "cross that bridge when you come to it",
+  "translation": "on verra le moment venu",
+  "definition": "Deal with a problem only when it actually happens.",
+  "example": {
+   "en": "Let's not worry now, we'll cross that bridge when we come to it.",
+   "fr": "Ne t'inquiète pas maintenant, on verra le moment venu."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 64,
+  "phrase": "do a double take",
+  "translation": "être surpris et regarder à nouveau",
+  "definition": "To look again in surprise.",
+  "example": {
+   "en": "I did a double take when I saw the price.",
+   "fr": "J'ai été surpris et j'ai regardé à deux fois en voyant le prix."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 65,
+  "phrase": "draw a blank",
+  "translation": "ne rien trouver, faire chou blanc",
+  "definition": "To fail to find or remember something.",
+  "example": {
+   "en": "I tried to recall his name, but I drew a blank.",
+   "fr": "J'ai essayé de me souvenir de son nom, mais je n'ai rien trouvé."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 66,
+  "phrase": "every cloud has a silver lining",
+  "translation": "à quelque chose malheur est bon",
+  "definition": "Something good can come from a bad situation.",
+  "example": {
+   "en": "Losing that job was hard, but every cloud has a silver lining.",
+   "fr": "Perdre cet emploi a été dur, mais à quelque chose malheur est bon."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 67,
+  "phrase": "food for thought",
+  "translation": "matière à réflexion",
+  "definition": "Something worth thinking about seriously.",
+  "example": {
+   "en": "That documentary gave me a lot of food for thought.",
+   "fr": "Ce documentaire m'a donné beaucoup matière à réflexion."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 68,
+  "phrase": "get a taste of your own medicine",
+  "translation": "se voir appliquer le même traitement qu'on inflige",
+  "definition": "To experience the same bad treatment you gave others.",
+  "example": {
+   "en": "He finally got a taste of his own medicine.",
+   "fr": "Il a enfin eu un avant-goût de son propre remède."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 69,
+  "phrase": "get the hang of",
+  "translation": "prendre le coup, s'y habituer",
+  "definition": "To learn how to do something.",
+  "example": {
+   "en": "It took a while, but I finally got the hang of it.",
+   "fr": "Ça a pris du temps, mais j'ai fini par prendre le coup."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 70,
+  "phrase": "go back to the drawing board",
+  "translation": "retourner à la case départ (concevoir à nouveau)",
+  "definition": "To start planning again from scratch.",
+  "example": {
+   "en": "The plan failed, so it's back to the drawing board.",
+   "fr": "Le plan a échoué, il faut tout reprendre à zéro."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 71,
+  "phrase": "go with the flow",
+  "translation": "se laisser porter, suivre le mouvement",
+  "definition": "To relax and accept things as they happen.",
+  "example": {
+   "en": "I don't have a plan, I'm just going with the flow.",
+   "fr": "Je n'ai pas de plan, je me laisse porter."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 72,
+  "phrase": "hit home",
+  "translation": "toucher une corde sensible, faire mouche",
+  "definition": "For a message to be deeply understood/felt.",
+  "example": {
+   "en": "His speech really hit home for many people.",
+   "fr": "Son discours a vraiment touché beaucoup de monde."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 73,
+  "phrase": "in the long run",
+  "translation": "à long terme",
+  "definition": "Over a long period of time.",
+  "example": {
+   "en": "It will save you money in the long run.",
+   "fr": "Ça te fera économiser de l'argent à long terme."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 74,
+  "phrase": "it's not rocket science",
+  "translation": "ce n'est pas sorcier",
+  "definition": "It's not difficult to understand.",
+  "example": {
+   "en": "Come on, it's not rocket science.",
+   "fr": "Allez, ce n'est pas sorcier."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 75,
+  "phrase": "jump the gun",
+  "translation": "agir prématurément, précipiter les choses",
+  "definition": "To act before the right time.",
+  "example": {
+   "en": "Let's not jump the gun before we have all the facts.",
+   "fr": "Ne précipitons pas les choses avant d'avoir tous les faits."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 76,
+  "phrase": "last but not least",
+  "translation": "enfin, et non des moindres",
+  "definition": "Used to introduce a final item that is still important.",
+  "example": {
+   "en": "And last but not least, thank you all for coming.",
+   "fr": "Et enfin, et non des moindres, merci à tous d'être venus."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 77,
+  "phrase": "learn the ropes",
+  "translation": "apprendre les ficelles du métier",
+  "definition": "To learn how a job or task is done.",
+  "example": {
+   "en": "It took her a month to learn the ropes.",
+   "fr": "Il lui a fallu un mois pour apprendre les ficelles du métier."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 78,
+  "phrase": "no pain no gain",
+  "translation": "qui ne tente rien n'a rien / sans effort pas de résultat",
+  "definition": "Success requires hard work or sacrifice.",
+  "example": {
+   "en": "I know the training is tough, but no pain no gain.",
+   "fr": "Je sais que l'entraînement est dur, mais sans effort pas de résultat."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 79,
+  "phrase": "off the top of your head",
+  "translation": "de mémoire, sans réfléchir",
+  "definition": "Said or estimated without checking facts.",
+  "example": {
+   "en": "Off the top of my head, I'd say around 200.",
+   "fr": "De mémoire, je dirais environ 200."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 80,
+  "phrase": "once bitten, twice shy",
+  "translation": "chat échaudé craint l'eau froide",
+  "definition": "Being cautious after a bad past experience.",
+  "example": {
+   "en": "I won't lend him money again — once bitten, twice shy.",
+   "fr": "Je ne lui prêterai plus d'argent — chat échaudé craint l'eau froide."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 81,
+  "phrase": "put all your eggs in one basket",
+  "translation": "tout miser sur une seule chose",
+  "definition": "To risk everything on a single plan.",
+  "example": {
+   "en": "Don't put all your eggs in one basket.",
+   "fr": "Ne mise pas tout sur une seule chose."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 82,
+  "phrase": "raining cats and dogs",
+  "translation": "pleuvoir des cordes",
+  "definition": "Raining very heavily.",
+  "example": {
+   "en": "We stayed in because it was raining cats and dogs.",
+   "fr": "On est restés à la maison parce qu'il pleuvait des cordes."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 83,
+  "phrase": "rule of thumb",
+  "translation": "règle empirique, règle générale",
+  "definition": "A general, practical guideline.",
+  "example": {
+   "en": "As a rule of thumb, tip 15% at restaurants.",
+   "fr": "En règle générale, laisse 15% de pourboire au restaurant."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 84,
+  "phrase": "take the plunge",
+  "translation": "se lancer, franchir le pas",
+  "definition": "To finally decide to do something risky.",
+  "example": {
+   "en": "They took the plunge and started their own business.",
+   "fr": "Ils se sont lancés et ont créé leur propre entreprise."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 85,
+  "phrase": "the ball is in your court",
+  "translation": "c'est à toi de jouer",
+  "definition": "It's someone else's turn to act or decide.",
+  "example": {
+   "en": "I've done my part, the ball is in your court now.",
+   "fr": "J'ai fait ma part, c'est à toi de jouer maintenant."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 86,
+  "phrase": "think outside the box",
+  "translation": "sortir des sentiers battus, penser autrement",
+  "definition": "To think creatively, beyond conventional ideas.",
+  "example": {
+   "en": "We need to think outside the box to solve this.",
+   "fr": "Il faut sortir des sentiers battus pour résoudre ça."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 87,
+  "phrase": "touch and go",
+  "translation": "incertain, ça ne tient qu'à un fil",
+  "definition": "A situation with an uncertain outcome.",
+  "example": {
+   "en": "It was touch and go for a while, but he recovered.",
+   "fr": "La situation était incertaine un moment, mais il s'est rétabli."
+  },
+  "level": "C1"
+ }
+]

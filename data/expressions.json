@@ -1,0 +1,321 @@
+[
+ {
+  "id": 1,
+  "phrase": "make progress",
+  "translation": "faire des progrès",
+  "definition": "To improve or advance.",
+  "example": {
+   "en": "She's making great progress in her English classes.",
+   "fr": "Elle fait de grands progrès en anglais."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 2,
+  "phrase": "take responsibility",
+  "translation": "assumer la responsabilité",
+  "definition": "To accept accountability for something.",
+  "example": {
+   "en": "He took responsibility for the mistake.",
+   "fr": "Il a assumé la responsabilité de l'erreur."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 3,
+  "phrase": "pay attention",
+  "translation": "faire attention, prêter attention",
+  "definition": "To focus on something carefully.",
+  "example": {
+   "en": "Please pay attention to the instructions.",
+   "fr": "Merci de bien faire attention aux instructions."
+  },
+  "level": "A2"
+ },
+ {
+  "id": 4,
+  "phrase": "draw conclusions",
+  "translation": "tirer des conclusions",
+  "definition": "To form a judgement based on evidence.",
+  "example": {
+   "en": "It's too early to draw conclusions.",
+   "fr": "Il est trop tôt pour tirer des conclusions."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 5,
+  "phrase": "raise awareness",
+  "translation": "sensibiliser",
+  "definition": "To help people understand an issue.",
+  "example": {
+   "en": "The campaign aims to raise awareness about pollution.",
+   "fr": "La campagne vise à sensibiliser à la pollution."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 6,
+  "phrase": "make a decision",
+  "translation": "prendre une décision",
+  "definition": "To decide something.",
+  "example": {
+   "en": "We need to make a decision by Friday.",
+   "fr": "On doit prendre une décision d'ici vendredi."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 7,
+  "phrase": "take a risk",
+  "translation": "prendre un risque",
+  "definition": "To do something that might have a bad outcome.",
+  "example": {
+   "en": "She took a risk by quitting her job.",
+   "fr": "Elle a pris un risque en démissionnant."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 8,
+  "phrase": "have an impact on",
+  "translation": "avoir un impact sur",
+  "definition": "To affect something significantly.",
+  "example": {
+   "en": "The policy will have a major impact on small businesses.",
+   "fr": "La politique aura un impact majeur sur les petites entreprises."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 9,
+  "phrase": "come to an agreement",
+  "translation": "parvenir à un accord",
+  "definition": "To reach a mutual decision.",
+  "example": {
+   "en": "The two sides finally came to an agreement.",
+   "fr": "Les deux parties sont finalement parvenues à un accord."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 10,
+  "phrase": "keep in touch",
+  "translation": "rester en contact",
+  "definition": "To maintain contact with someone.",
+  "example": {
+   "en": "Let's keep in touch after graduation.",
+   "fr": "Restons en contact après la remise des diplômes."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 11,
+  "phrase": "make an effort",
+  "translation": "faire un effort",
+  "definition": "To try hard to do something.",
+  "example": {
+   "en": "He made a real effort to be on time.",
+   "fr": "Il a fait un réel effort pour être à l'heure."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 12,
+  "phrase": "take part in",
+  "translation": "participer à",
+  "definition": "To be involved in an activity.",
+  "example": {
+   "en": "Many students took part in the debate.",
+   "fr": "De nombreux étudiants ont participé au débat."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 13,
+  "phrase": "play a role in",
+  "translation": "jouer un rôle dans",
+  "definition": "To be a contributing factor.",
+  "example": {
+   "en": "Diet plays a role in overall health.",
+   "fr": "L'alimentation joue un rôle dans la santé globale."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 14,
+  "phrase": "set a goal",
+  "translation": "se fixer un objectif",
+  "definition": "To decide on something to achieve.",
+  "example": {
+   "en": "She set a goal to run a marathon.",
+   "fr": "Elle s'est fixé pour objectif de courir un marathon."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 15,
+  "phrase": "reach a compromise",
+  "translation": "trouver un compromis",
+  "definition": "To find a solution acceptable to both sides.",
+  "example": {
+   "en": "They reached a compromise after long negotiations.",
+   "fr": "Ils ont trouvé un compromis après de longues négociations."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 16,
+  "phrase": "draw attention to",
+  "translation": "attirer l'attention sur",
+  "definition": "To make people notice something.",
+  "example": {
+   "en": "The report draws attention to a serious issue.",
+   "fr": "Le rapport attire l'attention sur un problème sérieux."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 17,
+  "phrase": "take action",
+  "translation": "agir, prendre des mesures",
+  "definition": "To do something about a situation.",
+  "example": {
+   "en": "The government must take action now.",
+   "fr": "Le gouvernement doit agir maintenant."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 18,
+  "phrase": "make sense",
+  "translation": "être logique, avoir du sens",
+  "definition": "To be understandable or reasonable.",
+  "example": {
+   "en": "Your explanation makes perfect sense.",
+   "fr": "Ton explication est parfaitement logique."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 19,
+  "phrase": "take into account",
+  "translation": "prendre en compte",
+  "definition": "To consider something when making a decision.",
+  "example": {
+   "en": "We must take the cost into account.",
+   "fr": "Il faut prendre en compte le coût."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 20,
+  "phrase": "give rise to",
+  "translation": "donner lieu à, provoquer",
+  "definition": "To cause something to happen.",
+  "example": {
+   "en": "The policy gave rise to widespread criticism.",
+   "fr": "La politique a donné lieu à de vives critiques."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 21,
+  "phrase": "come into effect",
+  "translation": "entrer en vigueur",
+  "definition": "For a law or rule to start applying.",
+  "example": {
+   "en": "The new regulation comes into effect next month.",
+   "fr": "La nouvelle réglementation entre en vigueur le mois prochain."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 22,
+  "phrase": "bear in mind",
+  "translation": "garder à l'esprit",
+  "definition": "To remember and consider something.",
+  "example": {
+   "en": "Bear in mind that the shop closes at 6pm.",
+   "fr": "Garde à l'esprit que le magasin ferme à 18h."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 23,
+  "phrase": "shed light on",
+  "translation": "éclairer, apporter un éclairage sur",
+  "definition": "To make something clearer or easier to understand.",
+  "example": {
+   "en": "The study sheds light on the causes of the disease.",
+   "fr": "L'étude apporte un éclairage sur les causes de la maladie."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 24,
+  "phrase": "take advantage of",
+  "translation": "profiter de, tirer parti de",
+  "definition": "To make good use of an opportunity.",
+  "example": {
+   "en": "Take advantage of the discount while it lasts.",
+   "fr": "Profite de la réduction tant qu'elle dure."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 25,
+  "phrase": "come to terms with",
+  "translation": "accepter, se faire une raison à propos de",
+  "definition": "To accept a difficult situation.",
+  "example": {
+   "en": "It took her years to come to terms with the loss.",
+   "fr": "Il lui a fallu des années pour accepter la perte."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 26,
+  "phrase": "make a difference",
+  "translation": "changer les choses, avoir un impact positif",
+  "definition": "To have a positive effect.",
+  "example": {
+   "en": "Small actions can make a big difference.",
+   "fr": "De petites actions peuvent changer beaucoup de choses."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 27,
+  "phrase": "get in touch with",
+  "translation": "contacter, prendre contact avec",
+  "definition": "To communicate with someone.",
+  "example": {
+   "en": "Please get in touch with our support team.",
+   "fr": "Merci de contacter notre équipe support."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 28,
+  "phrase": "run the risk of",
+  "translation": "courir le risque de",
+  "definition": "To be in danger of something happening.",
+  "example": {
+   "en": "You run the risk of losing your investment.",
+   "fr": "Tu cours le risque de perdre ton investissement."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 29,
+  "phrase": "strike a balance",
+  "translation": "trouver un équilibre",
+  "definition": "To find a satisfactory middle point between two things.",
+  "example": {
+   "en": "It's hard to strike a balance between work and family.",
+   "fr": "C'est difficile de trouver un équilibre entre travail et famille."
+  },
+  "level": "C1"
+ }
+]

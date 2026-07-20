@@ -1,0 +1,362 @@
+[
+ {
+  "id": 1,
+  "connector": "however",
+  "function": "opposition/contraste",
+  "example": {
+   "en": "She was tired. However, she kept working.",
+   "fr": "Elle était fatiguée. Cependant, elle a continué à travailler."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 2,
+  "connector": "therefore",
+  "function": "conséquence",
+  "example": {
+   "en": "It was raining; therefore, the match was cancelled.",
+   "fr": "Il pleuvait ; par conséquent, le match a été annulé."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 3,
+  "connector": "moreover",
+  "function": "ajout (soutenu)",
+  "example": {
+   "en": "The plan is expensive. Moreover, it's unrealistic.",
+   "fr": "Le plan est coûteux. De plus, il est irréaliste."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 4,
+  "connector": "furthermore",
+  "function": "ajout (soutenu)",
+  "example": {
+   "en": "The results are promising. Furthermore, they open new possibilities.",
+   "fr": "Les résultats sont prometteurs. En outre, ils ouvrent de nouvelles possibilités."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 5,
+  "connector": "nevertheless",
+  "function": "opposition (malgré cela)",
+  "example": {
+   "en": "It was raining. Nevertheless, they went for a walk.",
+   "fr": "Il pleuvait. Néanmoins, ils sont allés se promener."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 6,
+  "connector": "whereas",
+  "function": "contraste (comparaison)",
+  "example": {
+   "en": "She loves the city, whereas he prefers the countryside.",
+   "fr": "Elle adore la ville, alors que lui préfère la campagne."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 7,
+  "connector": "although",
+  "function": "concession",
+  "example": {
+   "en": "Although it was late, we kept talking.",
+   "fr": "Bien qu'il fût tard, nous avons continué à parler."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 8,
+  "connector": "despite",
+  "function": "concession (+ nom/gérondif)",
+  "example": {
+   "en": "Despite the rain, the event went ahead.",
+   "fr": "Malgré la pluie, l'événement a eu lieu."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 9,
+  "connector": "in contrast",
+  "function": "contraste",
+  "example": {
+   "en": "In contrast, the second study found no effect.",
+   "fr": "En revanche, la seconde étude n'a trouvé aucun effet."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 10,
+  "connector": "consequently",
+  "function": "conséquence",
+  "example": {
+   "en": "He missed the deadline; consequently, he lost the contract.",
+   "fr": "Il a manqué l'échéance ; par conséquent, il a perdu le contrat."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 11,
+  "connector": "provided that",
+  "function": "condition",
+  "example": {
+   "en": "You can go out, provided that you finish your homework.",
+   "fr": "Tu peux sortir, à condition que tu finisses tes devoirs."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 12,
+  "connector": "on the other hand",
+  "function": "contraste (introduit une autre perspective)",
+  "example": {
+   "en": "On the one hand it's risky; on the other hand it could pay off.",
+   "fr": "D'un côté c'est risqué ; de l'autre, ça pourrait payer."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 13,
+  "connector": "in addition",
+  "function": "ajout",
+  "example": {
+   "en": "In addition to the fee, there's a deposit.",
+   "fr": "En plus des frais, il y a une caution."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 14,
+  "connector": "as a result",
+  "function": "conséquence",
+  "example": {
+   "en": "She studied hard; as a result, she passed with honours.",
+   "fr": "Elle a beaucoup travaillé ; résultat, elle a réussi avec mention."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 15,
+  "connector": "in spite of",
+  "function": "concession (+ nom)",
+  "example": {
+   "en": "In spite of his age, he runs every day.",
+   "fr": "Malgré son âge, il court tous les jours."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 16,
+  "connector": "on the contrary",
+  "function": "opposition forte",
+  "example": {
+   "en": "I'm not upset — on the contrary, I'm thrilled.",
+   "fr": "Je ne suis pas contrarié — au contraire, je suis ravi."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 17,
+  "connector": "similarly",
+  "function": "comparaison (similitude)",
+  "example": {
+   "en": "The first method failed. Similarly, the second one did too.",
+   "fr": "La première méthode a échoué. De même, la seconde aussi."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 18,
+  "connector": "likewise",
+  "function": "comparaison (similitude, soutenu)",
+  "example": {
+   "en": "He apologised, and she did likewise.",
+   "fr": "Il s'est excusé, et elle a fait de même."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 19,
+  "connector": "given that",
+  "function": "cause/condition (soutenu)",
+  "example": {
+   "en": "Given that prices have risen, demand may fall.",
+   "fr": "Étant donné que les prix ont augmenté, la demande pourrait chuter."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 20,
+  "connector": "unless",
+  "function": "condition négative",
+  "example": {
+   "en": "We won't go unless it stops raining.",
+   "fr": "On n'ira pas à moins qu'il arrête de pleuvoir."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 21,
+  "connector": "so that",
+  "function": "but/conséquence",
+  "example": {
+   "en": "Speak louder so that everyone can hear.",
+   "fr": "Parle plus fort pour que tout le monde entende."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 22,
+  "connector": "in order to",
+  "function": "but",
+  "example": {
+   "en": "She saved money in order to travel.",
+   "fr": "Elle a économisé afin de voyager."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 23,
+  "connector": "even though",
+  "function": "concession (fait avéré, plus fort qu'although)",
+  "example": {
+   "en": "Even though he apologised, she stayed angry.",
+   "fr": "Même s'il s'est excusé, elle est restée en colère."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 24,
+  "connector": "as long as",
+  "function": "condition (durée/tant que)",
+  "example": {
+   "en": "You can stay as long as you like.",
+   "fr": "Tu peux rester aussi longtemps que tu veux."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 25,
+  "connector": "hence",
+  "function": "conséquence (très soutenu, académique)",
+  "example": {
+   "en": "The data was incomplete; hence the uncertainty.",
+   "fr": "Les données étaient incomplètes, d'où l'incertitude."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 26,
+  "connector": "thus",
+  "function": "conséquence (soutenu, académique)",
+  "example": {
+   "en": "The experiment failed, thus confirming our hypothesis.",
+   "fr": "L'expérience a échoué, confirmant ainsi notre hypothèse."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 27,
+  "connector": "notwithstanding",
+  "function": "concession (très formel, juridique)",
+  "example": {
+   "en": "Notwithstanding the risks, they proceeded.",
+   "fr": "Nonobstant les risques, ils ont continué."
+  },
+  "level": "C2"
+ },
+ {
+  "id": 28,
+  "connector": "in that",
+  "function": "cause (précision, soutenu)",
+  "example": {
+   "en": "The plan is flawed in that it ignores costs.",
+   "fr": "Le plan est imparfait en ce qu'il ignore les coûts."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 29,
+  "connector": "owing to",
+  "function": "cause (soutenu)",
+  "example": {
+   "en": "The flight was delayed owing to bad weather.",
+   "fr": "Le vol a été retardé en raison du mauvais temps."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 30,
+  "connector": "due to",
+  "function": "cause",
+  "example": {
+   "en": "The delay was due to a technical issue.",
+   "fr": "Le retard était dû à un problème technique."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 31,
+  "connector": "as a consequence of",
+  "function": "conséquence (précise une cause)",
+  "example": {
+   "en": "As a consequence of the strike, trains were cancelled.",
+   "fr": "En conséquence de la grève, des trains ont été annulés."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 32,
+  "connector": "in the event that",
+  "function": "condition (formel)",
+  "example": {
+   "en": "In the event that you're late, call us.",
+   "fr": "Au cas où tu serais en retard, appelle-nous."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 33,
+  "connector": "to sum up",
+  "function": "conclusion (résumé)",
+  "example": {
+   "en": "To sum up, the project was a success.",
+   "fr": "Pour résumer, le projet a été un succès."
+  },
+  "level": "B1"
+ },
+ {
+  "id": 34,
+  "connector": "in conclusion",
+  "function": "conclusion (formel)",
+  "example": {
+   "en": "In conclusion, further research is needed.",
+   "fr": "En conclusion, des recherches supplémentaires sont nécessaires."
+  },
+  "level": "B2"
+ },
+ {
+  "id": 35,
+  "connector": "that is to say",
+  "function": "reformulation/précision",
+  "example": {
+   "en": "We need more staff, that is to say, at least two more people.",
+   "fr": "Il nous faut plus de personnel, c'est-à-dire au moins deux personnes de plus."
+  },
+  "level": "C1"
+ },
+ {
+  "id": 36,
+  "connector": "in other words",
+  "function": "reformulation",
+  "example": {
+   "en": "He's not coming — in other words, we start without him.",
+   "fr": "Il ne vient pas — autrement dit, on commence sans lui."
+  },
+  "level": "B1"
+ }
+]

@@ -1,0 +1,320 @@
+[
+ {
+  "id": 1,
+  "title": "look / stare / glance / gaze",
+  "words": [
+   {
+    "word": "look",
+    "nuance": "regarder (neutre, action générale)",
+    "example": "She looked at the painting for a moment."
+   },
+   {
+    "word": "stare",
+    "nuance": "fixer du regard (insistant, parfois impoli)",
+    "example": "He stared at her without saying a word."
+   },
+   {
+    "word": "glance",
+    "nuance": "jeter un coup d'œil (bref)",
+    "example": "She glanced at her watch."
+   },
+   {
+    "word": "gaze",
+    "nuance": "contempler (regard prolongé, admiratif ou pensif)",
+    "example": "He gazed at the stars for hours."
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "title": "house / home",
+  "words": [
+   {
+    "word": "house",
+    "nuance": "maison (bâtiment physique)",
+    "example": "They bought a house in the suburbs."
+   },
+   {
+    "word": "home",
+    "nuance": "chez-soi (lieu affectif, pas forcément une maison)",
+    "example": "There's no place like home."
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "title": "job / work / career / profession",
+  "words": [
+   {
+    "word": "job",
+    "nuance": "emploi (poste précis)",
+    "example": "She got a new job at the hospital."
+   },
+   {
+    "word": "work",
+    "nuance": "travail (activité en général, non comptable)",
+    "example": "I have a lot of work to do today."
+   },
+   {
+    "word": "career",
+    "nuance": "carrière (parcours professionnel long terme)",
+    "example": "He built a successful career in finance."
+   },
+   {
+    "word": "profession",
+    "nuance": "profession (métier qualifié, souvent réglementé)",
+    "example": "Teaching is a respected profession."
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "speak / tell / say / talk",
+  "words": [
+   {
+    "word": "speak",
+    "nuance": "parler (une langue, s'exprimer, formel)",
+    "example": "Do you speak Japanese?"
+   },
+   {
+    "word": "tell",
+    "nuance": "dire à quelqu'un (+ objet direct personne)",
+    "example": "Tell me what happened."
+   },
+   {
+    "word": "say",
+    "nuance": "dire (+ paroles exactes ou contenu)",
+    "example": "She said she was tired."
+   },
+   {
+    "word": "talk",
+    "nuance": "discuter, bavarder (+ about)",
+    "example": "We talked about the project for an hour."
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "hear / listen",
+  "words": [
+   {
+    "word": "hear",
+    "nuance": "entendre (perception passive, involontaire)",
+    "example": "I heard a noise outside."
+   },
+   {
+    "word": "listen",
+    "nuance": "écouter (attention volontaire, + to)",
+    "example": "I listen to podcasts every morning."
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "see / watch / look at",
+  "words": [
+   {
+    "word": "see",
+    "nuance": "voir (perception générale, involontaire)",
+    "example": "I saw him at the station."
+   },
+   {
+    "word": "watch",
+    "nuance": "regarder (avec attention, mouvement/action)",
+    "example": "We watched the game last night."
+   },
+   {
+    "word": "look at",
+    "nuance": "regarder (attention dirigée vers quelque chose de fixe)",
+    "example": "Look at this photo."
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "title": "say / tell (rapporter un discours)",
+  "words": [
+   {
+    "word": "say that...",
+    "nuance": "dire que... (sans destinataire précis)",
+    "example": "He said that he would come."
+   },
+   {
+    "word": "tell someone that...",
+    "nuance": "dire à quelqu'un que...",
+    "example": "He told me that he would come."
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "title": "big / large / huge / massive / enormous",
+  "words": [
+   {
+    "word": "big",
+    "nuance": "grand (usage courant, neutre)",
+    "example": "They live in a big house."
+   },
+   {
+    "word": "large",
+    "nuance": "grand (plus formel, souvent pour quantités/tailles)",
+    "example": "The company has a large workforce."
+   },
+   {
+    "word": "huge",
+    "nuance": "énorme (intensif, familier-neutre)",
+    "example": "That's a huge improvement."
+   },
+   {
+    "word": "massive",
+    "nuance": "massif, colossal (intensif, familier)",
+    "example": "The project was a massive success."
+   },
+   {
+    "word": "enormous",
+    "nuance": "énorme (soutenu, insiste sur l'ampleur)",
+    "example": "The task required enormous effort."
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "title": "happy / glad / pleased / delighted / thrilled",
+  "words": [
+   {
+    "word": "happy",
+    "nuance": "heureux (général)",
+    "example": "I'm happy with the results."
+   },
+   {
+    "word": "glad",
+    "nuance": "content (soulagement ou plaisir modéré)",
+    "example": "I'm glad you came."
+   },
+   {
+    "word": "pleased",
+    "nuance": "satisfait (plus formel/poli)",
+    "example": "We are pleased to announce the results."
+   },
+   {
+    "word": "delighted",
+    "nuance": "ravi (assez fort, poli/formel)",
+    "example": "I'd be delighted to help."
+   },
+   {
+    "word": "thrilled",
+    "nuance": "enchanté, aux anges (très fort, enthousiaste)",
+    "example": "She was thrilled to get the job."
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "title": "small / little / tiny / minor",
+  "words": [
+   {
+    "word": "small",
+    "nuance": "petit (taille, neutre)",
+    "example": "It's a small apartment."
+   },
+   {
+    "word": "little",
+    "nuance": "petit (souvent affectif ou avec nuance)",
+    "example": "She has a little dog."
+   },
+   {
+    "word": "tiny",
+    "nuance": "minuscule (très petit, intensif)",
+    "example": "The room was tiny."
+   },
+   {
+    "word": "minor",
+    "nuance": "mineur (importance, pas taille physique)",
+    "example": "It's just a minor issue."
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "title": "say / mention / state / claim / argue",
+  "words": [
+   {
+    "word": "say",
+    "nuance": "dire (neutre)",
+    "example": "He said it was fine."
+   },
+   {
+    "word": "mention",
+    "nuance": "mentionner (en passant, sans insister)",
+    "example": "She mentioned a new restaurant."
+   },
+   {
+    "word": "state",
+    "nuance": "déclarer, affirmer (formel, officiel)",
+    "example": "The report states that sales increased."
+   },
+   {
+    "word": "claim",
+    "nuance": "prétendre, affirmer (sans preuve certaine, parfois sceptique)",
+    "example": "He claims to be an expert."
+   },
+   {
+    "word": "argue",
+    "nuance": "soutenir, faire valoir (avec justification/débat)",
+    "example": "She argued that the policy was unfair."
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "title": "angry / annoyed / furious / irritated",
+  "words": [
+   {
+    "word": "angry",
+    "nuance": "en colère (général)",
+    "example": "He was angry about the delay."
+   },
+   {
+    "word": "annoyed",
+    "nuance": "agacé (léger)",
+    "example": "I'm a bit annoyed by the noise."
+   },
+   {
+    "word": "irritated",
+    "nuance": "irrité (agacement qui s'accumule)",
+    "example": "She sounded irritated on the phone."
+   },
+   {
+    "word": "furious",
+    "nuance": "furieux (très intense)",
+    "example": "He was furious when he found out."
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "title": "almost / nearly / barely / hardly",
+  "words": [
+   {
+    "word": "almost",
+    "nuance": "presque (proche du résultat)",
+    "example": "I almost forgot my keys."
+   },
+   {
+    "word": "nearly",
+    "nuance": "presque (synonyme d'almost, un peu plus formel)",
+    "example": "We nearly missed the flight."
+   },
+   {
+    "word": "barely",
+    "nuance": "à peine (tout juste, avec difficulté)",
+    "example": "I barely passed the exam."
+   },
+   {
+    "word": "hardly",
+    "nuance": "à peine, ne...guère (souvent + negative meaning)",
+    "example": "I hardly know him."
+   }
+  ]
+ }
+]
