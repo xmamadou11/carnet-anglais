@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Générateur audio (zip) — Carnet</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<style>
+  body{ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; max-width:640px; margin:40px auto; padding:0 20px; color:#2b241d; background:#faf6ef; }
+  h1{ font-size:22px; }
+  p{ line-height:1.5; color:#4a4038; }
+  .card{ background:#fff; border:1px solid #e4dccf; border-radius:12px; padding:20px; margin:18px 0; }
+  button{ font-size:15px; padding:12px 18px; border-radius:8px; border:none; background:#2f6f62; color:#fff; cursor:pointer; margin:4px 6px 4px 0; }
+  button:disabled{ background:#c9c2b6; cursor:not-allowed; }
+  button.secondary{ background:#fff; color:#2f6f62; border:1px solid #2f6f62; }
+  #log{ font-family:ui-monospace,monospace; font-size:12.5px; white-space:pre-wrap; background:#f3efe6; border-radius:8px; padding:12px; max-height:320px; overflow:auto; margin-top:10px; }
+  .step{ display:flex; align-items:flex-start; gap:12px; margin-bottom:16px; }
+  .num{ width:26px; height:26px; border-radius:50%; background:#2f6f62; color:#fff; display:flex; align-items:center; justify-content:center; font-size:13px; flex:none; }
+  code{ background:#f3efe6; padding:1px 5px; border-radius:4px; }
+  progress{ width:100%; margin-top:8px; }
+</style>
+</head>
+<body>
+  <h1>Générateur audio — fonctionne 100% sur iPhone</h1>
+  <p>Cet outil tourne entièrement dans ton navigateur (rien n'est envoyé nulle part). Il regroupe tes fichiers audio en <strong>quelques gros fichiers .zip</strong> (au lieu de milliers de petits fichiers), pour que l'upload sur GitHub reste faisable depuis l'app Fichiers de l'iPhone.</p>
+
+  <div class="card">
+    <div class="step"><div class="num">1</div><div>
+      <strong>Sélectionne tes fichiers audio</strong><br>
+      <span style="color:#6b6156;font-size:13.5px">Fichiers attendus : <code>id_mot_categorie.mp3</code> (ex. <code>42_abandon_mot.mp3</code>). Sur iPhone : bouton ci-dessous → Parcourir → ton dossier audio → <em>Tout sélectionner</em> en haut à droite.</span><br>
+      <input type="file" id="folderInput" webkitdirectory multiple accept=".mp3,.wav" style="margin-top:10px">
+    </div></div>
+    <div class="step"><div class="num">2</div><div>
+      <strong>Génère les zips</strong><br>
+      <span style="color:#6b6156;font-size:13.5px">Regroupe automatiquement les fichiers en paquets d'environ 20 Mo (limite de l'upload web GitHub : 25 Mo/fichier).</span><br>
+      <button id="buildBtn" disabled style="margin-top:10px">Générer les zips + le manifeste</button>
+      <progress id="prog" value="0" max="100" style="display:none"></progress>
+    </div></div>
+    <div class="step"><div class="num">3</div><div>
+      <strong>Télécharge chaque fichier</strong><br>
+      <span style="color:#6b6156;font-size:13.5px">Appuie sur chaque bouton : iOS propose "Enregistrer dans Fichiers" (choisis un dossier, par ex. Téléchargements).</span><br>
+      <div id="zipButtons" style="margin-top:10px"></div>
+    </div></div>
+    <div class="step"><div class="num">4</div><div>
+      <strong>Mets-les dans le repo GitHub (depuis Safari, sans PC)</strong><br>
+      <span style="color:#6b6156;font-size:13.5px">
+        Sur github.com (Safari iPhone), dans ton dépôt :<br>
+        • <code>audio-index.json</code> → <em>Add file → Upload files</em>, dépose-le dans <code>data/</code> (remplace l'ancien)<br>
+        • chaque <code>audio-part-N.zip</code> → <em>Add file → Upload files</em>, dépose-les dans un dossier <code>audio-zips/</code> à la racine du repo (tape <code>audio-zips/nomdufichier.zip</code> au moment de l'upload pour créer le dossier)<br>
+        • valide (Commit changes)
+      </span>
+    </div></div>
+  </div>
+
+  <div id="log" class="card" style="display:none"></div>
+
+<script>
+const CATEGORIES = ['mot','definition','senses','examples','sensExamples','collocations','expressions','phrasalVerbs'];
+const PATTERN = new RegExp('^(\\d+)_.+_(' + CATEGORIES.join('|') + ')\\.(mp3|wav)$', 'i');
+const TARGET_ZIP_BYTES = 20 * 1024 * 1024; // ~20MB per part, under GitHub's 25MB web-upload limit
+
+let selectedFiles = [];
+
+function log(msg) {
+  const el = document.getElementById('log');
+  el.style.display = 'block';
+  el.textContent += msg + '\n';
+  el.scrollTop = el.scrollHeight;
+}
+
+document.getElementById('folderInput').addEventListener('change', (evt) => {
+  const files = Array.from(evt.target.files || []);
+  selectedFiles = files.filter(f => PATTERN.test(f.name));
+
+  // BUG CORRIGÉ (cause racine des audios qui ne marchent jamais) : le navigateur
+  // renvoie les fichiers d'un dossier dans un ordre non fiable (souvent proche
+  // de l'ordre du système de fichiers, pas alphabétique/numérique). L'ancienne
+  // version zippait dans CET ordre-là, donc les 6-8 fichiers audio d'un même
+  // mot (mot/definition/senses/examples/...) atterrissaient chacun dans un zip
+  // différent, au hasard, parmi les 80 zips. Résultat : lire l'audio d'UN SEUL
+  // mot pouvait nécessiter de télécharger jusqu'à 8 zips de ~20 Mo chacun.
+  // On trie maintenant explicitement par id numérique (puis catégorie), afin
+  // que tous les fichiers d'un même mot — et des mots voisins — se retrouvent
+  // dans le même zip. Ainsi, lire n'importe quel audio d'un mot ne télécharge
+  // jamais plus d'UN SEUL zip, et les mots voisins (souvent lus à la suite
+  // pendant une session) sont déjà dans ce zip une fois qu'il est en cache.
+  selectedFiles.sort((a, b) => {
+    const ma = a.name.match(PATTERN), mb = b.name.match(PATTERN);
+    const ida = parseInt(ma[1], 10), idb = parseInt(mb[1], 10);
+    if (ida !== idb) return ida - idb;
+    return ma[2].localeCompare(mb[2]);
+  });
+
+  document.getElementById('log').textContent = '';
+  document.getElementById('log').style.display = 'block';
+  log(`Fichiers sélectionnés : ${files.length}`);
+  log(`Fichiers reconnus (nom valide) : ${selectedFiles.length}`);
+  log('Tri effectué par id de mot, pour regrouper tout l\'audio d\'un même mot dans un seul zip.');
+  if (files.length && !selectedFiles.length) {
+    log('Aucun fichier ne correspond au format attendu "id_mot_categorie.mp3".');
+  }
+  document.getElementById('buildBtn').disabled = selectedFiles.length === 0;
+});
+
+document.getElementById('buildBtn').addEventListener('click', async () => {
+  document.getElementById('buildBtn').disabled = true;
+  const prog = document.getElementById('prog');
+  prog.style.display = 'block';
+  prog.value = 0; prog.max = selectedFiles.length;
+
+  const batches = [];
+  let current = [];
+  let currentSize = 0;
+  for (const f of selectedFiles) {
+    if (currentSize + f.size > TARGET_ZIP_BYTES && current.length) {
+      batches.push(current);
+      current = [];
+      currentSize = 0;
+    }
+    current.push(f);
+    currentSize += f.size;
+  }
+  if (current.length) batches.push(current);
+
+  log(`\nCréation de ${batches.length} fichier(s) zip...`);
+
+  const manifest = {};
+  const zipButtons = document.getElementById('zipButtons');
+  zipButtons.innerHTML = '';
+  let doneCount = 0;
+
+  for (let i = 0; i < batches.length; i++) {
+    const zipName = `audio-part-${i + 1}.zip`;
+    const zip = new JSZip();
+    for (const f of batches[i]) {
+      const relPath = 'audio/' + f.name;
+      zip.file(relPath, f);
+      const m = f.name.match(PATTERN);
+      if (m) {
+        const id = m[1], category = m[2];
+        if (!manifest[id]) manifest[id] = {};
+        manifest[id][category] = { zip: zipName, name: relPath };
+      }
+      doneCount++;
+      prog.value = doneCount;
+    }
+    log(`  ${zipName} : ${batches[i].length} fichiers`);
+    const blob = await zip.generateAsync({ type: 'blob', compression: 'STORE' });
+    const url = URL.createObjectURL(blob);
+    const sizeMB = (blob.size / (1024 * 1024)).toFixed(1);
+    const btn = document.createElement('a');
+    btn.href = url;
+    btn.download = zipName;
+    btn.textContent = `⬇ ${zipName} (${sizeMB} Mo)`;
+    btn.style.cssText = 'display:block;margin:6px 0;padding:12px 18px;background:#2f6f62;color:#fff;border-radius:8px;text-decoration:none;font-size:15px;';
+    zipButtons.appendChild(btn);
+  }
+
+  const manifestBlob = new Blob([JSON.stringify(manifest, null, 1)], { type: 'application/json' });
+  const manifestUrl = URL.createObjectURL(manifestBlob);
+  const mbtn = document.createElement('a');
+  mbtn.href = manifestUrl;
+  mbtn.download = 'audio-index.json';
+  mbtn.textContent = '⬇ audio-index.json (à mettre dans data/)';
+  mbtn.style.cssText = 'display:block;margin:6px 0;padding:12px 18px;background:#fff;color:#2f6f62;border:1px solid #2f6f62;border-radius:8px;text-decoration:none;font-size:15px;';
+  zipButtons.appendChild(mbtn);
+
+  log(`\nTerminé. Mots avec audio : ${Object.keys(manifest).length}.`);
+  document.getElementById('buildBtn').disabled = false;
+});
+</script>
+</body>
+</html>
