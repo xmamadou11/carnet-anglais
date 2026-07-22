@@ -1,0 +1,53 @@
+name: Extraire les audios (zips -> fichiers individuels)
+
+# Se lance à la main depuis l'onglet "Actions" du repo sur GitHub (marche
+# aussi depuis Safari iPhone : Actions -> ce workflow -> "Run workflow").
+# Il prend tous les audio-zips/*.zip déjà présents dans le repo et les
+# extrait en fichiers .mp3 individuels dans le dossier audio/, puis
+# committe le résultat. Tout se passe sur les serveurs de GitHub : aucun
+# téléchargement ni ré-upload depuis le téléphone n'est nécessaire.
+on:
+  workflow_dispatch:
+    inputs:
+      supprimer_les_zips:
+        description: "Supprimer audio-zips/*.zip une fois l'extraction terminée (coche pour économiser de la place dans le repo)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Extraire tous les zips dans audio/
+        run: |
+          set -e
+          mkdir -p audio
+          if ! ls audio-zips/*.zip >/dev/null 2>&1; then
+            echo "Aucun fichier dans audio-zips/ — rien à extraire."
+            exit 0
+          fi
+          for z in audio-zips/*.zip; do
+            echo "Extraction de $z"
+            unzip -o -q "$z" -d .
+          done
+          echo "Nombre total de fichiers audio dans audio/ :"
+          find audio -type f -name '*.mp3' | wc -l
+
+      - name: Supprimer les zips sources (optionnel)
+        if: ${{ inputs.supprimer_les_zips }}
+        run: rm -f audio-zips/*.zip
+
+      - name: Committer et pousser les fichiers extraits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add audio/ audio-zips/ 2>/dev/null || git add audio/
+          git diff --staged --quiet && echo "Rien de nouveau à committer." && exit 0
+          git commit -m "Extraction automatique des audios individuels depuis les zips"
+          git push
